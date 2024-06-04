@@ -93,6 +93,7 @@ You can run the program on the sample data by typing:
 
 into your device's terminal or command-prompt window.
 
+As needed, update the paths to the training and test file and the model hyperparameters before running the program within the `Constants.py` file.
 
 ### Examples of running the Python program
 
