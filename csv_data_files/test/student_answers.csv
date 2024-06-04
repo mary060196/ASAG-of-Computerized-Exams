@@ -1,0 +1,1099 @@
+a_id,a_text,q_id,score
+26-q_21,A)This is the Ribbon Area. B)The purpose of the element 'Font' group - this group typically contains options related to text formatting such as font type font size font color and font effects. Within this group you'll find dropdown menus and buttons to modify the appearance of text in your document.,q_21,correct
+29-q_21,,q_21,incorrect
+39-q_21,this is called the ribbon. the bold button will help you make letters bold.,q_21,correct
+42-q_21,(a) The name of the part displayed in the image in Figure X would be called ribbon. But it is on home. (b)The purpose of the 'Normal' style in Word is to provide a standard set of formatting attributes for text. When applied it ensures consistency in the appearance of the document's text such as font type size line spacing and paragraph spacing according to the predefined settings of the 'Normal' style. This consistency is key to maintaining a professional look across the entire document. It also aids in document structure and accessibility allowing for features like automated table of contents and improved readability with screen readers.,q_21,correct
+45-q_21,Figure X shows the ribbon of the word document and one element of the ribbon is the bold.It allows the text you selected to be thicker.,q_21,correct
+4-q_21,One element of the word application window displayed above is called ribbon,q_21,incorrect
+30-q_51,4a)The Search Box 4b) This search box will find anything that you search for that microsoft word has like commands or features. You can ask it for making a watermark adding a citation or replacing and finding something. It basically helps you locate anything that you can do in the word document.,q_51,correct
+32-q_51,The 'find' part is being displayed in which Its purpose is to initiate a search within the document for a specific word phrase or string of text that the user inputs into the search bar.,q_51,correct
+41-q_51,a. This is the Ribbon. b. The Bold Button makes the text appear bolder.,q_51,incorrect
+50-q_51,a). Search bar. b. The search bar in Word often referred to as the 'Find' or 'Search' feature is used to quickly locate specific words or phrases within a document. It allows users to search for text content efficiently saving time and effort especially in lengthy documents where manually scanning for specific information may be impractical.,q_51,correct
+52-q_51,a. Figure X is the search bar. b. It can be used to find actons and files.,q_51,correct
+58-q_51,The name is called Search Pane it allows us to enter keywords or phrases we are looking for within the document making them easy to spot.,q_51,correct
+59-q_51,a) This is the Search Bar b) Is used to search for buttons and options in Word.,q_51,correct
+60-q_51,a. The search bar in Word is used to find specific words phrases or formatting within a document. You can type in keywords or phrases into the search bar and Word will highlight all instances of that text within the document. This feature is useful for quickly locating specific information or making changes to repetitive elements within a document. Additionally the search bar often provides options for advanced search functions such as searching by case sensitivity or searching within specific document elements like headers or footers. b.In Microsoft Word the highlighting feature allows you to apply a color overlay to selected text within your document. This can be useful for emphasizing certain passages making notes or categorizing information. Here's how you can use the highlighting element in Word: Select Text: First highlight the text you want to apply the highlighting to. You can do this by clicking and dragging your cursor over the desired text. Choose Highlight Color: Once the text is selected go to the 'Home' tab in the Word ribbon at the top of the window. You'll see a button labeled 'Text Highlight Color' which looks like a marker with a color swatch. Click on this button. Apply Highlighting: A dropdown menu will appear displaying a palette of color options. Click on the color you want to apply to the selected text. Word will immediately apply the chosen color as a highlight over the selected text. Remove Highlighting: If you want to remove highlighting from text simply select the highlighted text and click the 'Text Highlight Color' button again. Then choose 'No Color' from the dropdown menu.,q_51,correct
+7-q_51,a.title bar b. title bar displays document names,q_51,incorrect
+15-q_63,,q_63,incorrect
+1-q_63,In the bottom of the document you have the Status Bar. All the way to the right of the status bar you can zoom in and out of the document.,q_63,correct
+31-q_63,(a) This is the Ribbon. (b) The Bold button makes the text look bold (thicker).,q_63,incorrect
+37-q_63,a) status bar b)staus bar gives you the basic information about your document for example the language used in the document,q_63,correct
+3-q_63,a. in this part b. The Bold button makes the text look hold,q_63,incorrect
+5-q_63,(a) The part displayed in the image in Figure X is the Status Bar of the Word document. The status bar is typically located on the bottom of the Word document. (b) One element of the Status Bar is the Zoom feature located on the right. Dragging the bar will change the magnification of the Word document while displaying the amount of % it is currently magnified.,q_63,correct
+16-q_28,a) This is the placeholder of the Title or Title placeholder shortly. (b) You can either right-click it and choose Cut from the shortcut menu or click its boundary and then click on the DELETE key.,q_28,correct
+17-q_28,(a)This object is the 'Title placeholder' (b)To remove this object you can click on its boundary and press the DELETE key on the keyboard or you can right-click and select 'Cut' from the shortcut menu.,q_28,correct
+19-q_28,That is a text box. More specifically it is a title text box. You would need to click around its border to remove it.,q_28,correct
+1-q_28,That is called the Title Placeholder. To get rid of it go to the View tab then click on Slide Master. Then uncheck Title.,q_28,incorrect
+23-q_28,,q_28,incorrect
+24-q_28,a) This is the placeholder of the Title or Title placeholder shortly. b) You can either right-click it and choose Cut from the shortcut menu or click its boundary and then click on the DELETE key.,q_28,correct
+29-q_28,,q_28,incorrect
+33-q_28,(a) This is the 'Title placeholder' (b) You can right-click it and choose 'Cut' from the shortcut menu. You can also click its boundary and then press on the DELETE key.,q_28,correct
+34-q_28,Title page where you can add a title of your presentation. To delete click once where it says to add title and simple press delete on you keyboard.,q_28,correct
+37-q_28,a) This is the placeholder of the Title b) click its boundary and then click on the DELETE key.,q_28,correct
+41-q_28,a. The name of the PowerPoint object appearing in Figure X is a text box. b. I would click on the perimeter of the box and then right click cut to remove the box.,q_28,correct
+42-q_28,(a) The object name of the PowerPoint you are referring to is called a 'Title Placeholder.' It is a pre-formatted box where you can add the title for a slide. (b) In order to delete or remove the title placeholder from the slide you would need to click on the border of the title placeholder to select it and then press the 'Delete' key on your keyboard.,q_28,correct
+43-q_28,(a) It is a Title Slide. (b) To delete a slide click on the thumbnail image of the slide you wish to delete in the thumbnail view. Then use either the Backspace or Delete button on your keyboard to remove that slide.,q_28,correct
+44-q_28,This is theplaceholder of the Title or Title placeholder shortly You can right click and choose Cut from the shortcut menu.,q_28,correct
+45-q_28,The name of the powerpoint object appearing in Figure X is the 'Title only slide'. In order remove the object click on one of the lines around it ( make sure your not clicking inside the textbox because it assuming your about to insert text) and click delete on your keyboard.,q_28,correct
+46-q_28,A)The name is the 'title and content' slide. B)This can be done by right clicking the slide then clicking the 'Delete Slide' option.,q_28,incorrect
+48-q_28,,q_28,incorrect
+51-q_28,a.) It is called the 'Title Only' slide. b.) Right-click and select Delete Slide.,q_28,correct
+52-q_28,a. Title b. Click anywhere along the border then press Backspace or Delete on your keyboard.,q_28,correct
+55-q_28,The name of the PowerPoint object in Figure X could vary as common objects include Text Boxes Shapes Images Charts Tables and SmartArt graphics. Identifying the object involves recognizing its visual characteristics and function on the slide. To delete or remove this object you would click to select it ensuring it's highlighted with a border or sizing handles around it which indicates it is active. Simply press the 'Delete' key on your keyboard to remove the selected object from the slide which would clear the space.,q_28,incorrect
+56-q_28,A. its called the title slide. B. Single slide - Right-click and select Delete Slide.,q_28,correct
+57-q_28,a) The name of the Powerpoint Object appearing here is the Title Box. b) To delete a slide click on the thumbnail image of the slide you wish to delete in the thumbnail view. Then use either the Backspace or Delete button on your keyboard to remove that slide.,q_28,correct
+5-q_28,(a) The object shown in Figure X is considered a 'Text box'. (b) You can right click on the objects border and selecting 'Cut/Delete' option to remove the object.,q_28,correct
+8-q_28,A. This is the title placeholder or title B. To remove it we click on the boundary and we press delete to delete the object,q_28,correct
+13-q_85,(a) The object displayed in Figure X is a media/video. (b) When you click on the triangle button it plays the video.,q_85,correct
+16-q_85,The video will go back reverse a few seconds.,q_85,incorrect
+17-q_85,(a)The object displayed in Figure X is a video. (b)When you click on the triangle button at the bottom-left of the object the video will play.,q_85,correct
+19-q_85,(a) This is a video object. (b) When you click the traingle button on the bottom left the video will start to play.,q_85,correct
+20-q_85,a) the object is a video b) when you click on the triangle button at the bottom-left the video plays,q_85,correct
+26-q_85,A) The object displayed in Figure X is a media player. B) When you click on the triangle button at the bottom-left of the object it activates the play function causing the video or media content to start playing from the beginning. This button is typically the play/pause button so if the video or media content is paused clicking it will resume playback. If the video or media content is already playing clicking it will pause the playback.,q_85,correct
+27-q_85,The object displayed in Figure X is a video player control bar [1]. It is a panel that a) it appears at the bottom of a video window and allows us to control the playback of the video. 2) The triangle button at the bottom left of the control bar is the play button. When we click on the play button the video will start playing.,q_85,correct
+28-q_85,a) A video. b) The video will start playing.,q_85,correct
+2-q_85,,q_85,incorrect
+33-q_85,(a) This is inserted video in Power Point. (b) The video will be played when you click on the triangle button at the bottom-left of the object,q_85,correct
+34-q_85,a) a video b) it will play the video,q_85,correct
+35-q_85,This is a video that was added to the slide. When you click on the triangle button the video will start to play.,q_85,correct
+38-q_85,a) The object display in Figure X is a video that was inserted into Powerpoint. b) The triangle on the bottom left of the video is the start and pause button of the video. When you click on the triangle the video will start and if the button is clicked on again it will pause the video.,q_85,correct
+39-q_85,this is a video insert. when pressing the triangle in the bottom left you will unpause the video,q_85,correct
+3-q_85,In Figure X it showed the video and whe you click on the tringle it will play the video,q_85,correct
+41-q_85,,q_85,incorrect
+42-q_85,(a) The object displayed in Figure X appears to be a video/video player that was linked/added within a document or presentation slide. (b) Typically the triangle button at the bottom-left of a video player is the play button. When you click on this button the video should start playing from the beginning or resume playing if it was paused.,q_85,correct
+47-q_85,a. It is a video that is more than likely linked from the web. b. When you click on the triangle it will play the video in the slide or outside depending on the view you are in.,q_85,correct
+4-q_85,A. It is a video inserted from the file. B. When you click on the tringle on the left shown above its plays the video.,q_85,correct
+50-q_85,a. The object displayed in Figure X is a play button of a black screen b. If you click on the triangle bottom on the left it skips the video.,q_85,incorrect
+51-q_85,a.) The Figure Xabove displays a video. b.) When clicking on the triangle on the bottom left corner it begins to play the video being shown.,q_85,correct
+52-q_85,a. The object in Figure X is a video. b. The video placed starts to play.,q_85,correct
+54-q_85,The object in the display is a video clip. When you click on the triangle button it will play the video.,q_85,correct
+56-q_85,A. its a video added to the powerpoint slide B. When we click on the triangle button the video starts playing.,q_85,correct
+57-q_85,a) The object displayed in Figure X is a Video that was inserted into a slide. b) When you click on the triangle button is to make sure the video is set exactly how you want it then clicks the Arrow Button (triangle) underneath the video to have a preview.,q_85,correct
+59-q_85,a) This is an embedded Video display. b) The video embedded is going to start playing.,q_85,correct
+7-q_85,a.)video b.)the video should play,q_85,correct
+9-q_85,It allows you to expand the object,q_85,incorrect
+1-q_77,The red wavy underline shows that there is a misspelling of a word. You can correct this by right-clicking on it and clicking on one of the suggestions Word has given you.,q_77,correct
+23-q_77,,q_77,incorrect
+29-q_77,,q_77,incorrect
+37-q_77,a) Spelling errors b)Right-click on the underlined phrase.This action will bring up a context menu. Word will provide suggestions for correcting the error. You can choose one of the suggested corrections by clicking on it.,q_77,correct
+38-q_77,a) The red underline means that the word typed is not spelled correctly. b) Right click the incorrectly spelled word the correctly spelled word will show as an option to pick. You can also left click and under spelling you can choose to ignore the red underline.,q_77,correct
+48-q_77,,q_77,incorrect
+11-q_49,,q_49,incorrect
+17-q_49,(a)Word shows a blue underline under the word 'eat' to indicate a grammatical error. The word 'eat' should be corrected to 'eats' since 'girl' is singular. (b)To correct this issue you can simply right-click on the word with this underline and click on the right correction based on the options shown.,q_49,correct
+25-q_49,The word shows a strange colorful underline in the phrase because of grammatical error it can be fixed by making the eat to eats,q_49,correct
+27-q_49,a) Grammar mistake : The word eat should be corrected to eats because girl is singular it is warning us by drawing a blue double underline under that word. b) We can use right-click the word with that underline and from the options shown click on the right correction. The correction will replace the mistake and the underline will disappear. Otherwise we can use review> editor> to view the detected grammar and spelling errors and correct them .,q_49,correct
+2-q_49,,q_49,incorrect
+33-q_49,(a) The word 'eat' should be corrected to 'eats' because the word 'girl' is in singular form so Word warns you by a blue double underlining under that word. (b) You can right-click the word or phrase with that underline and from the options shown click on the right form of the word. This will replace the word and the underline will be gone.,q_49,correct
+36-q_49,a) The underline of the word eat is due to its incorrect grammer it should be 'eats'. b) Click on the word 'eat' and the option for correction will be given automatically or right-click on the word eat and the top option will be of corrections.,q_49,correct
+49-q_49,a) Grammar check determined a grammatical error with 'eat' in the sentence. b) You can right click on the word 'eat' and select the suggested fix by Word.,q_49,correct
+54-q_49,The strange colorful letter in the phrase in Figure X is to show a spelling or grammatical error. To fic the issue and remove the underline right click on the word 'eat' and select the correct spelling or grammar fix.,q_49,correct
+60-q_49,The double blue line in Microsoft Word typically indicates a grammar or spelling suggestion from the built-in proofing tools. To get rid of this double blue line you have a few options: Accept the Suggestion: If the double blue line is indicating a grammar or spelling issue you can right-click on the underlined text. This will bring up a context menu with suggested corrections. Select the correct option from the list to accept the suggestion and remove the blue line. Ignore the Suggestion: If you believe the text is correct despite the suggestion you can choose to ignore it. Right-click on the underlined text and select 'Ignore Once' or 'Ignore Rule' from the context menu. This will remove the blue line without making any changes to the text. Change Proofing Options: If you want to change how Word handles these suggestions in the future you can modify the proofing options. Go to the 'File' tab then select 'Options.' In the Word Options dialog box navigate to the 'Proofing' section. Here you can adjust settings related to spelling grammar and writing style. For example you can disable certain proofing options or change how Word flags potential issues. By using one of these methods you can remove the double blue line in Word based on your preference for the text in question.,q_49,correct
+6-q_49,Word shows a colorful unerline in the phrase above because there is a grammar problem one way to fix the issue is to click it and a better suggestion will appear to fix it.,q_49,correct
+7-q_49,A.)Spelling and grammar errors will show coloful underline. B.) Right-click on the underlined word or phrase to see suggested corrections.,q_49,correct
+14-q_44,by looking at the slide if your horizontal view is longer than your vertical view then your in landscape. There is another way click on design tab -> select slide size -> click custom slide size the orientation tab tells your default view.,q_44,correct
+16-q_44,landscape orientation is for power point where the page prints left to right along the long side of a page so slide appears wider than it is tall for powerpoint.,q_44,correct
+26-q_44,You can tell the orientation type of a PowerPoint slide by looking at the aspect ratio of the slide in portrait orientation the height of the slide is greater than its width. This means that the slide appears taller than it is wide. When you look at a PowerPoint slide in portrait orientation you'll notice that it's taller and there's less horizontal space compared to vertical space. In landscape orientation the width of the slide is greater than its height. This means that the slide appears wider than it is tall. When you look at a PowerPoint slide in landscape orientation you'll notice that it's wider and there's less vertical space compared to horizontal space. To determine the orientation type of a PowerPoint slide simply observe the slide's proportions. If it's taller than it is wide it's in portrait orientation. If it's wider than it is tall it's in landscape orientation.,q_44,correct
+27-q_44,The orientation type of a PowerPoint slide is landscape. by looking at the slide because the width of the slide is greater than its height. In landscape orientation the slide appears wider horizontally accommodating more content from left to right while the height is relatively shorter.,q_44,correct
+29-q_44,,q_44,incorrect
+30-q_44,The orientation type of a PowerPoint slide is landscape. You can tell by looking at the slide because the width of the slide is greater than its height giving it a wider appearance. This wider aspect ratio is characteristic of landscape orientation which is commonly used for presentations to maximize horizontal space and accommodate content such as images graphs and bullet points.,q_44,correct
+33-q_44,In PowerPoint slides can have either portrait or landscape orientation. To determine the orientation type of a PowerPoint slide you can look at the aspect ratio of the slide. Portrait Orientation: If the height of the slide is greater than the width then the slide is in portrait orientation. Landscape Orientation: If the width of the slide is greater than the height then the slide is in landscape orientation.,q_44,incorrect
+34-q_44,you can change the page orientation in your powerpoint presentation to landscape or portait layout. Select Design then select slide size then choose standard(Portrait) to widescreen (Landscape). You can tell if its either or by looking at the text boxes if its portait the text boxes will be square if its landscape the text boxes will be rectangular.,q_44,incorrect
+35-q_44,The orientation type of a Powerpoint is landscape. I can tell by seeing that the layout of the slide is more longer horizontally than vertically,q_44,correct
+36-q_44,The orientation type of a PowerPoint slide is landscape. I can tell so because the horizontal spaces is wider than the vertical space is high.,q_44,correct
+42-q_44,The orientation of a PowerPoint slide is landscape. The way in which you can tell is that the powerpoint slide is wider than it is taller which resembles a landscape and or photograph.,q_44,correct
+44-q_44,Depending on how many columns your worksheet has though this may not be the best orientation. The other option is the landscape orientation where the page prints left to right along the long side of a page. 1) Click on the Page Layout tab 2) Within the Page Setup group you will find the Orientation dropdown. 3) Click the arrow to access the menu and then select the orientation you want. Again by default Excel is set to portrait so you will generally use this to switch to landscape. 770,q_44,incorrect
+46-q_44,Landscape because the width of the slide is longer then the height of the slide.,q_44,correct
+4-q_44,When I open the slide in the powerpoint the size of the slide tell me that it is a lanscape,q_44,correct
+51-q_44,Excel is by default oriented in portrait mode which makes it taller than it is broad just like Word. However this might not be the ideal orientation depending on how many columns your spreadsheet contains. The alternative orientation is landscape in which the page prints down the long edge of the page from left to right.,q_44,incorrect
+54-q_44,Orientation type of a PowerPoint slide is landscape because has it's width be longer than it's height.,q_44,correct
+55-q_44,A PowerPoint slide typically has a landscape orientation. You can tell by observing the slide's layout for example in landscape orientation the width of the slide is greater than its height giving it a wider appearance. This orientation is the default setting in PowerPoint because it matches the aspect ratio of most computer screens and projectors making it suitable for presentations.,q_44,correct
+56-q_44,Landscape because the width of a slide is longer than its height.,q_44,correct
+61-q_44,Landscape is the default orientation type for powerpoint slides and you can tell this because the page is much more wider where the slide prints left to right along the long side of the page.,q_44,correct
+15-q_47,,q_47,incorrect
+1-q_47,By resizing the image you can click on one of the resize dots that is available on each side and corner and move them with your cursor.,q_47,correct
+22-q_47,Selecting the picture and using the resizing handles around the edges and corners of the picture. Hover your mouse over one of the corner resizing handles (small squares). Click and drag the handle inward towards the center of the picture to reduce its size. As you drag you'll see the dimensions of the picture changing.,q_47,correct
+28-q_47,Using the resize dots at the corners of the image to make the image smaller or bigger.,q_47,correct
+2-q_47,,q_47,incorrect
+36-q_47,Select the picture then Click on any one of the 4 corner sizing handle and drag it towards the opposite corner until the picture becomes as small as needed.,q_47,correct
+37-q_47,Select the picture  Click on any one of the 4 corner sizing handles and drag it towards the opposite corner (inwards the picture) until the picture becomes as small as needed.,q_47,correct
+38-q_47,You can click and drag on the corner circle of the image to change to size of the image. You can also click on the picture and under the 'picture Format' tab and under the 'size' section you can change the width and height of the picture.,q_47,correct
+39-q_47,you can select one of the four corners (open circle thing) to change the size of the apple,q_47,correct
+44-q_47,Select the picture- click one of the four corner sizing hnadles until the pictures becomes as small as needed.,q_47,correct
+45-q_47,Select the picture  Click on any one of the 4 corner sizing handles (those white small circles on the picture s corners) and drag it towards the opposite corner (inwards the picture) until the picture becomes as small as needed.,q_47,correct
+48-q_47,,q_47,incorrect
+51-q_47,Many of the controls here are probably familiar from the Text Boxes section; for example you can adjust the image's size by using the resize dots at the corners and on either side. Click and drag a corner while holding down the Shift key to keep the image's dimensions. Moreover you may rotate the picture by clicking and dragging the circular arrow located at the top of it.,q_47,correct
+53-q_47,select the picture click on one of the corners for the sizing and drag the picture in to make it smaller,q_47,correct
+55-q_47,One way you can change the size of the picture inside of the word document is the resize dots at each side and corner that you can use to increase or decrease the size of the image. To maintain the proportions of the image hold down the Shift key while clicking and dragging a corner.,q_47,correct
+56-q_47,Select the picture  Click on any one of the 4 corner sizing handles (those white small circles on the picture s corners) and drag it towards the opposite corner (inwards the picture) until the picture becomes as small as needed.,q_47,correct
+61-q_47,by using the resize dots on the corners of the image and to maintain proportion throughout the image while changing the size make sure to hold down shift while clicking and holding down one of the dots and dragging it inwards towards the middle of the image.,q_47,correct
+6-q_47,One way you can change the picture to the Figure Xshown above is by resizing the picture using the reisize dots found on the edges of the image. By holding on to one of the corner dots you can minimize the image.,q_47,correct
+10-q_2,A .docx Word file belongs the newest version of Word while a .doc Word file belongs to an older version of Word.,q_2,correct
+16-q_2,A .docx Word file belongs the newest version of Word while a .doc Word file belongs to an older version of Word.,q_2,correct
+17-q_2,The difference between a .docx word file and a .doc Word file is that a .docx file belongs to the newest version of Word while a .doc file belongs to the older version of Word.,q_2,correct
+19-q_2,A .docx Word file may not work for someone who is using an older version of Microsoft Word. .docx is a new format than .doc.,q_2,correct
+20-q_2,.docx uses XML-based format and .doc uses binary format and is the older version comapred to .docx.,q_2,correct
+21-q_2,,q_2,incorrect
+22-q_2,.docx is the default file format used by microsoft word. t is a more modern and efficient file format compared to the older .doc format. .docx files typically have a smaller file size and are less prone to corruption. .doc is the older file format used by microsoft word. It is less interoperable and less efficient compared to the XML-based .docx format. .doc files are more susceptible to corruption especially when transferred between different operating systems or versions of Word.,q_2,correct
+23-q_2,,q_2,incorrect
+24-q_2,A .docx works with Microsoft Word 2007 and later. Improved scripts macros and other features from the older .doc while a .doc works with Microsoft Word 2003 and older. .doc (Word 97 2003 Document) default Microsoft Word file from Microsoft Word 2003 and older.,q_2,correct
+25-q_2,.docx : It is a default file format used by Microsoft Word since 2007 .doc : It was the default file format used by Microsoft Word prior to 2007,q_2,correct
+28-q_2,.docx files improve data recovery compared to .doc files.,q_2,correct
+2-q_2,,q_2,incorrect
+32-q_2,The distinction lies in the file formats: .docx is the default file format for Microsoft Word from version 2007 onwards offering enhanced support for scripts macros and other features compared to the older .doc format used by Microsoft Word versions up to 2003),q_2,correct
+34-q_2,docx is default microsoft word file works withg microsoft word 2007 and later while doc is from 2003 and older. somoene who doesnt have microsoft won't be able to view the file if you send it as a docx,q_2,correct
+36-q_2,A .docx Word file belongs the newest version of Word while a .doc Word file belongs to an older version of Word.,q_2,correct
+37-q_2,A .docx Word file belongs the newest version of Word while a .doc Word file belongs to an older version of Word.,q_2,correct
+40-q_2,The difference between .doc Word file and the .docx Word file is the versions of the Microsoft word is different. So the .doc Word file is from 2002 and older so it is a default Microsoft Word file from 2002 and older while the .docx Word file works with Microsoft Word 2007 and later so it is an improved version with improved features like optimization and scripts is available on newer versions.,q_2,correct
+41-q_2,A .docx Word file and a .doc Word File is different because the .docx stands for XML standard and .doc has been around for 30 years.,q_2,correct
+42-q_2,The .docx format is a newer Word file format that offers better compression and advanced features compared to the older .doc format which is less efficient and lacks some modern functionalities. .docx files are used by Word 2007 and later while .doc files were used by Word 2003 and earlier.,q_2,correct
+43-q_2,A .docx Word file belongs the newest version of Word while a .doc Word file belongs to an older version of Word.,q_2,correct
+50-q_2,One key difference between a .docx Word file and a .doc Word file is that .docx files utilize the Office Open XML format introduced in Microsoft Word 2007 while .doc files use the older binary file format employed in earlier versions of Word.,q_2,correct
+52-q_2,One difference is that .docx is the modern extension and anyone with Word 2007 and after can open while .doc is the default extension for Word 2003 and older. Those with Word 2003 may not be able to access .docx files.,q_2,correct
+53-q_2,the difference is the year that the application is in .docx is word 2007 and beyond and .doc is word 2003 and older,q_2,correct
+57-q_2,The one difference there is between .docx and doc is that docx is for a default Microsoft Word file works with Microsoft Word 2007 and later. It also Improve scripts macros and other features from the older .doc. While .doc is a default Microsoft Word file from Microsoft Word 2003 and older.,q_2,correct
+59-q_2,The .docx Word file works with Microsoft Word 2007 and later while the .doc Word file is the default option for Microsoft Word 2003 and older.,q_2,correct
+61-q_2,.doc is the older version and default extension to Microsoft word 2003 while .docx is the default extension of Microsoft word 2007 and above. .doc is a binary format while .docx is based on XML.,q_2,correct
+9-q_2,.Docx Word document created with Microsoft Word 2007 updated macros scripts and other features from the earlier.doc .Doc Word material and formatting information are stored in digital filesTheir file size productivity is lower than that of.docx files and they might not work as well with more recent word processing software versions.,q_2,correct
+10-q_7,Click the Start button scroll through the list of apps until the Word app name appears Click the Word app name to open the app,q_7,correct
+11-q_7,,q_7,incorrect
+20-q_7,,q_7,incorrect
+25-q_7,one way to open the Word Application on a windows 10 computer is from the start menu and clicking on the word icon or searching for word if the icon isnt there.,q_7,correct
+26-q_7,You can do so by clicking on the Start button located at the bottom left corner of the screen the Start button is typically represented by the Windows logo then search for the word application logo or you may type it in the search bar.,q_7,correct
+27-q_7,Click the Start button scroll through the list of apps until the Word app name appears Click the Word app name to open the app.,q_7,correct
+32-q_7,You can open Word from the Start menu by clicking on the Word icon.,q_7,correct
+35-q_7,This can be done by clicking on the Windows icon on the bottom left corner of the computer clicking on applications and then click on the Word appplication,q_7,correct
+38-q_7,Click the search bar on the taskbar and type 'Word' then click on 'Word' to open the application.,q_7,correct
+3-q_7,One way to open Word application on a Windows 10 computer is by clicking on the Start menu searching for 'word' and then clicking on the Word app when it apppers in the search result.,q_7,correct
+42-q_7,One way to open a word application on a windows 10 computer is to Click the Start button -> scroll through the list of apps until the Word app name appears -> Click the Word app name to open the app.,q_7,correct
+44-q_7,On a Windows computer click the Star button and look for the the Window icons in the Star menu.,q_7,correct
+48-q_7,,q_7,incorrect
+51-q_7,By clicking the Word icon you can launch Word from the Start menu (or on a Mac the Applications folder). The Word icon always has the letter W and the color blue though it may take on different shapes based on your operating system and Word version.,q_7,correct
+54-q_7,One way to open the word application on windows 10 computer is to look for the word icon in the start menu.,q_7,correct
+55-q_7,Click on the Start button located at the bottom left corner of the screen or press the Windows logo key on your keyboard to open the Start menu.,q_7,correct
+56-q_7,Click the Start button scroll through the list of apps until the Word app name appears Click the Word app name to open the app.,q_7,correct
+58-q_7,click on the start button located at the bottom left corner of the windows desktop locate search bar type WORD this should display Microsoft Word from the search results and click on to open the word application.,q_7,correct
+59-q_7,Click the Start button > scroll through the list of apps until the Word app name appears > Click the Word app name to open the app.,q_7,correct
+5-q_7,One way you can open the Word Application is by heading to the windows button and searching on the search bar for keyword 'Word' to find the application. Click the correct application and the Word Application should open.,q_7,correct
+61-q_7,you can open Word from the start menu or the (application folder on mac) and by clicking on the word application,q_7,correct
+7-q_7,You can press the Windows key on your keyboard. Once the Start menu opens start typing 'Word' into the search bar at the bottom. As you type you'll see search results appear. Look for the 'Word' app icon in the search results. When you see the Word app icon click on it to open Microsoft Word.,q_7,correct
+8-q_7,I d normally just right after turning on the windows 10 computer I would click on the Search button and Search for Microsoft Word and click on it and open the application.,q_7,correct
+12-q_46,,q_46,incorrect
+13-q_46,(a) File Tab -> Save As -> This PC -> type the file name andchoose the folder to which it will be saved -> Click on Save'. (b) Open the Word app -> File Tab -> Open -> This PC -> search for the document or open the folder where it's saved -> Click on the name of the document -> Click on Open .,q_46,correct
+14-q_46,A) To save the word document for the first time you have to click on the file tab -> save as -> browse -> select desktop -> change the file name to whatever you want to name your word document -> click save (your word doc will be saved on desktop) B) Open the Word app File Tab -> Open -> This PC -> search for the document -> Click on open,q_46,correct
+15-q_46,,q_46,incorrect
+16-q_46,(a) (For example:) File Tab Save As This PC type the file name and choose the folder to which it will be saved Click on Save . (b) (For example:) Open the Word app File Tab Open This PC search for the document or open the folder where it s saved Click on the name of the document Click on Open .,q_46,correct
+18-q_46,A) You would use the save as button and will have a window pop to show where to save it on your computer. B) The command Control + S will save an exisiting word document.,q_46,incorrect
+26-q_46,(a) You would click the File Tab then Save As then This PC then you would type the file name and choose the folder to which it will be saved then click on Save . (b) You would open the Word app then File Tab then Open then This PC then search for the document or open the folder where it s saved then click on the name of the document and lastly click on Open .,q_46,correct
+31-q_46,(a) Click 'File' then 'Save As': Click on the 'File' tab select 'Save As' click 'Save'. (b) Use File Explorer: Open File Explorer by clicking on its icon on the taskbar (it looks like a folder) or by pressing Windows key + E on your keyboard. Navigate through your folders to find the Word document & double click on it.,q_46,correct
+32-q_46,(a) To save your Word document initially click the 'File' tab at the top-left corner opt for 'Save As' select the desired location name the document and click 'Save.' (b) To access an existing Word document on Windows 10 go to the 'File' tab choose 'Open' navigate to the document's location in the file explorer window select it and click 'Open.',q_46,correct
+34-q_46,a)Click FILE then Save pick or browse to a folder type a name for your document in the File name box and click Save. b),q_46,incorrect
+36-q_46,a) In the Word Document Open the File Tab and click Save As. Then browse to the location where you'd like to save your document. Finally Click Save. b) In the Search Menu located in the ToolBar panel search for Word. The first option should be of Microsoft Word you should click on it. When it opens it has the Home Page open which carries all the Recent Files. you can click on the desired existing Word Document.,q_46,correct
+3-q_46,(a) To save a word document for the first time you click on the 'file' tab in the toolbar then select 'save as' from the options. Choose the desired location to save the document and click on the 'save' button (b) To open it you click on the 'file' tab and then select 'Open'from the options. Navigate on the location where the document is saved selet it and click on the 'open' button,q_46,correct
+43-q_46,a. File save option. b. By double-clicking on icon in Windows.,q_46,correct
+47-q_46,a. One way is by doing Ctrl+S or Cmd+S (depending on the OS) which will bring up the dialogue box. Then you type in the file name and choose the folder that you want to save the file in and then click on 'Save'. b. You can open the Word app where then you will select on the side menu the option 'open' It will open a dialogue box where you select the specifc file you want after navigating to the correct folder and then click enter or open.,q_46,correct
+49-q_46,a) You can click File Save As and then choose the location you want the file saved and the name of the file. b) You can open up the Word Application click the Open tab on the left click Browse choose the location the file is saved click on the file and click open.,q_46,correct
+51-q_46,a.) The cloud computing storage solution offered by Microsoft is this. You can use OneDrive to save your papers for free if you have a Microsoft account and sign in. b.) To open Word and start a new document based on the downloaded template double-click on it in File Explorer.,q_46,incorrect
+55-q_46,A)Click on the 'File' menu located at the top left corner of the Word document. From the drop-down menu select 'Save As.' There will be an option where to save the file on your computer. After selecting the location enter the document name in the 'File name' field and click 'Save.' This action saves the Word document for the first time. B)One way to open an existing Word document is to use the File Explorer in Windows 10) First open File Explorer by clicking on its icon in the taskbar or pressing the Windows logo key + E on your keyboard. Then navigate to the folder where the Word document is stored. Once you find the document double-click on it to open it in Microsoft Word.,q_46,correct
+5-q_46,(a) Saving a Word document for the 1st time can be done by clicking the 'File' tab (top-left) and look for a 'Save as' option in which you can choose where to save the Word document in your folder directory. (b) One way of opening a Word document is; while having Word application open click on the 'File' tab (top-left) and look for an 'Open' option that with prompt you which document to open.,q_46,correct
+60-q_46,a.To save a Word document for the first time you should click on the 'File' tab in the top-left corner of the Word window. Then select 'Save As' from the menu options. This will open a dialog box where you can choose the location on your computer where you want to save the document give it a name and select the file format if needed (typically '.docx' for Word documents). Finally click the 'Save' button to save the document. b.To open an existing Word document on a Windows 10 computer you can click on the 'File' tab in the top-left corner of the Word window. Then select 'Open' from the menu options. This will open a dialog box where you can navigate to the location of the document on your computer select it and then click the 'Open' button to open the document in Word.,q_46,correct
+61-q_46,A) File>save B)Click on the file tab and the click open and select the file you would like to open.,q_46,correct
+6-q_46,a) In order to save the document for the first time you can click the save icon in the top left corner. b) You can open an existing word document on a windows 10 computer by opening the file tab and clicking open then you can browse to the location where your file is saved and select the file you want to open.,q_46,correct
+7-q_46,A.)In the File menu select 'Save As.' This will open the Save As dialog box. and save the file for the first time as any name and or extensio you would like. B.)Click the file explorer and navigate where the document has been saved. It can also be pinned to taskbar.,q_46,correct
+8-q_46,A. We click on the file tab select Save As and on this pc we can now type the file name and choose the location of where we are gonna store that file. Once we do all that we click on Save and we are done. B We can open the word app select file tab and open on this pc we can either search for the document or we can go through the folder or place where we saved it. Once we find our file we can click on it and click on open .,q_46,correct
+10-q_36,The first slide in a powerpoint presentation is called title slide because it has a text box saying 'click to add title' so you can enter a title for your presentation.,q_36,correct
+12-q_36,,q_36,incorrect
+21-q_36,,q_36,incorrect
+22-q_36,The title slide introduces the topic or subject matter of the presentation to the audience. It provides a brief overview of what the presentation will cover.,q_36,correct
+25-q_36,The 1st slide in a PowerPoint presentation is called the Title Slide according to our lectures as it comes with placeholders for the title and subtitle,q_36,correct
+28-q_36,It typically contains the title of the presentation.,q_36,correct
+31-q_36,The Title Slide comes with placeholders for both the title and subtitle of the entire presentation so it serves as the title of the presentation.,q_36,correct
+34-q_36,a title slide is called a title slide because the title details the topic of the presenation,q_36,correct
+36-q_36,This slide is called the Title Slide because it contains 2 placeholders: one for a title and one for a subtitle,q_36,correct
+37-q_36,The Title Slide comes with placeholders for both the title and subtitle of the entire presentation so it serves as the title of the presentation.,q_36,correct
+39-q_36,because it comes with places holders for the title and subtitle. so it serves as the title of the presentation.,q_36,correct
+3-q_36,,q_36,incorrect
+41-q_36,The 1st slide in a PowerPoint presentation is called the 'Title Slide' because this sets the tone of the PowerPoint presentation.,q_36,correct
+42-q_36,The reason as to why the first page is refered to a tittle slide based on our lectures is due to the Title Slide comes with placeholders for both the title and subtitle of the entire presentation so it serves as the title of the presentation.,q_36,correct
+46-q_36,It is called the Title Slide because it is the first slide in the presentation which introduces the topic.,q_36,correct
+48-q_36,,q_36,incorrect
+49-q_36,The 1st slide is called the title slide because by default it contains a text box for the Title and a text box for the Subtitle.,q_36,correct
+4-q_36,The title slide is the slide that is used to introduce the presentation to the audience.,q_36,correct
+50-q_36,The 1st slide in a PowerPoint presentation is called the 'Title Slide' because it typically contains the title of the presentation and may include additional information like the presenter's name and affiliation setting the tone and providing context for the presentation.,q_36,correct
+51-q_36,By default when you are creating a new PowerPoint presentation it will contain exactly 1 slide. This slide is called the Title Slide because it contains 2 placeholders: for a title and for a subtitle.,q_36,correct
+53-q_36,the first slide is called the title slide because it contains 2 placeholders for a title and for a subtile,q_36,correct
+54-q_36,the 1st slide in called the title slide is because of it being the start of the presentation,q_36,correct
+55-q_36,The first slide in a PowerPoint presentation is called the 'Title Slide' because it serves as the introduction to the presentation displaying the title and often includes the presenter's name date and other relevant information. This slide sets the tone and provides the audience with an initial overview of the presentation's content.,q_36,correct
+56-q_36,Its called the title because thats what the subject about the persention. The Title Slide comes with placeholders for both the title and subtitle of the entire presentation so it serves as the title of the presentation.,q_36,correct
+57-q_36,The 1st slide in a PowerPoint presentation is called the Title Slide because it usually contains the title of the presentation along with other information such as name subtitle or additional details. It sets the tone for the presentation and provides essential information about its content.,q_36,correct
+59-q_36,Because the slide has the placeholders for a title and subtitle of the entire presentation so it's ideal for titles.,q_36,correct
+5-q_36,The 1st slide in a PowerPoint presentation is called the 'Title Slide' because it is the slide that contains the title of which the PowerPoint is named after. Typically thee Title slide displays what the PowerPoint will be about.,q_36,correct
+61-q_36,It sets the tone for the entire presentation. and also because the the title slide has a big text box which is made for the title.,q_36,correct
+6-q_36,The 1st slide is called the ' Title slide' because it contains 2 placeholders. One for a title and the second for a subtitle.,q_36,correct
+10-q_33,Cut 'When I entered the store' using Ctrl+X (Cmnd+X) move your cursor in front of 'I walked on the street' then paste using Ctrl+V (Cmnd+V),q_33,correct
+13-q_33,You can select the text by click dragging with your cursor. Then you can press ctrl + x to cut the text. Finally you can paste the text back using ctrl + v. In this case you can select 'When I entered the store' and cut it then paste it in front.,q_33,correct
+15-q_33,,q_33,incorrect
+16-q_33,One way is to copy the text you want to move by using Ctrl+C (Cmnd+C) move your cursor to the new location of text then paste to the new location with Ctrl+V (Cmnd+V),q_33,correct
+18-q_33,You would highlight the section you would want to move. You would use the cut command which is control + x and then use the paste function to location you want to put it.,q_33,correct
+19-q_33,Highlight the text: 'When I entered the store'. With that selected drag the cursor to start of 'I' in 'I walked on the street'.,q_33,correct
+28-q_33,Select 'I walked on the street' and copy it by clicking ctrl+c. then click ctrl+x to cut it. Move the cursor either with the mouse or arrow keys to after the word 'store' and click ctrl+v to paste.,q_33,correct
+32-q_33,To change the order of the sentences in the paragraph without retyping click at the beginning of the sentence 'When I entered the store' and then cut (Ctrl + X) the sentence. Then move the cursor to the end of the sentence 'I walked on the street' and paste (Ctrl + V) the sentence there.,q_33,correct
+33-q_33,Select a part of the text 'I walked on the street' -> Press Ctrl + X -> Place the cursor one space after word 'store' -> Press Ctrl + V,q_33,correct
+34-q_33,Selected Text can be copied delete and pasted. You can copy (Cmnd + C) and delete selected text (CMND + X) then move the cursor to the new location of text and paste (Cmnd + V).,q_33,correct
+39-q_33,select the words 'i walked on the street' then cut them with Ctrl + X commands. then paste it before the . after the word store,q_33,correct
+41-q_33,You can cut using Ctrl+X 'I walked on the street' and then move that cutted text and paste it after 'When I entered the store' by Ctrl+V.,q_33,correct
+45-q_33,Select the words I walked on the street and cut them (Ctrl + X on Windows or Cmnd+X on Mac.) Then move the cursor to the place before the period (.) and paste (Ctrl + V on Windows or Cmnd+V on Mac) the words you cut at that place.,q_33,correct
+46-q_33,A word user can select the 'I walked on the street' and press the key ctrl + x to cut the part and copy the text to the clipboard. Then select before the period then paste the text by pressing ctrl +v.,q_33,correct
+47-q_33,To change the order of the sentences in the paragraph in Microsoft Word a user would typically follow these steps: 1) Place the cursor at the beginning of the sentence or phrase you want to move. In this case place the cursor before 'I walked on the street.' 2) Click and drag the selected text to the desired location. In this case drag 'I walked on the street' to after 'When I entered the store.' 3) Release the mouse button to drop the text into its new position.,q_33,correct
+53-q_33,select the words When I entered the store and cut it. then move the curser to the front of the sentence where it says I walked and paste it.,q_33,correct
+54-q_33,I would select 'When I enter the store' with my mouse right click and copy it then paste it before 'I walked on the street',q_33,correct
+60-q_33,Select the words When I entered the store and cut them (Ctrl + X on Windows or Cmnd+X on Mac.) Then move the cursor to the place before the period (.) and paste (Ctrl + V on Windows or Cmnd+V on Mac) the words you cut at that place.,q_33,correct
+61-q_33,they should copy from When i entered the store by holding down left click on the mouse and dragging the curser to the the last word street and then should right click and press copy and paste it before I walked on the street.,q_33,correct
+8-q_33,The user can highlight from the beginning to before When and we can ctrl + c to copy the text and i would follow up with ctrl + x to cut and then we would simply go place the cursor between t and . and paste it using ctrl + v to paste the text and we are done.,q_33,correct
+11-q_43,,q_43,incorrect
+12-q_43,,q_43,incorrect
+13-q_43,Select the text from which you want to make a hyperlink -> Insert tab -> Link button (the Insert Hyperlink dialog box will open) -> Click OK,q_43,correct
+14-q_43,Select the text from which you want to make a hyperlink -> Insert tab -> Link button (the Insert Hyperlink dialog box will open) Click OK.,q_43,correct
+16-q_43,Once the text is selected right-click the selected text and select Hyperlink from the options.,q_43,correct
+17-q_43,To enter a hyperlink into an existing text you will select the text you want to make a hyperlink Insert tab Link button (the Insert Hyperlink dialog box will open) Click OK.,q_43,correct
+22-q_43,Select the text right click on it to open the context menu and then choose hyperlink. Enter th URL in the address field. After entering the URL click 'OK' to create the hyperlink. The selected text will now be underlined and displayed in blue indicating that it is a hyperlink.,q_43,correct
+27-q_43,Select the text from which you want to make a hyperlink Insert tab Link button (the Insert Hyperlink dialog box will open) Click OK.,q_43,correct
+2-q_43,,q_43,incorrect
+30-q_43,Select the text. Right-click and choose 'Hyperlink' or press Ctrl + K.Enter the URL or select a location in the document.Click 'OK.',q_43,correct
+38-q_43,You can highlight the picture or word in the document and left click the word or picture. There will be options display one of the options will be 'link' after clicking link there will be a box that appears which then you can go to a website and copy the link address then paste the link address into the 'address' area then click 'ok'.,q_43,correct
+39-q_43,slect the text you want to change into a hyperlink. you can use the shortcut Ctrl + K.,q_43,correct
+42-q_43,Select the text from which you want to make a hyperlink ->Insert tab ->Link button (the Insert Hyperlink dialog box will open)-> Click OK. Or Right-click on the selected text and choose 'Hyperlink' from the context menu or go to the 'Insert' tab on the ribbon and click on the 'Hyperlink' button. In the dialog box that appears you can type or paste the URL you want to link to in the 'Address' field.,q_43,correct
+43-q_43,Select the text to be changed into hyperlink use the shortcut Ctrl+K in the opened dialog box insert the text and will be formated as a hyperlink. and then press OK.,q_43,correct
+44-q_43,Open the 'Insert Link' dialog box window and then for a link to a webpage type the webpage's address in the Address input box.,q_43,correct
+4-q_43,First you have to highlight the text then right click then click on the Hyperlink shown on the button in macs,q_43,correct
+51-q_43,From the shortcut menu select Link by right-clicking the text or image. Type or paste your URL in the Address box of the Insert Hyperlink box.,q_43,correct
+53-q_43,select the text right click and select hyperlink,q_43,correct
+54-q_43,You right click on the piece of text then choose the hyperlink option,q_43,correct
+9-q_43,Select>Insert>Links>Hyperlink,q_43,correct
+13-q_14,Click the Pictures icon inside this content placeholder to open the Insert picture dialog box -> Scroll through the list of files on the Desktop to find that picture -> double-click the name of this picture which will insert it into the slide.,q_14,correct
+14-q_14,This object is content placeholder. Click the Pictures icon inside the placeholder to open the Insert picture dialog box -> Scroll on the list of file to find the picture or simply just search the picture by name -> double click the name of this picture will insert the picture to the slide.,q_14,correct
+15-q_14,,q_14,incorrect
+18-q_14,You would select the text box and click on insert tab. Then click on pictures button and then select a picture.,q_14,incorrect
+19-q_14,Click the icon to the most bottom left. Then navigate to the image on your computer and click 'Insert'.,q_14,correct
+1-q_14,,q_14,incorrect
+22-q_14,Click on the 'Click to Add Text' placeholder box to activate it. Click the insert tab. In the 'Images' group click on the 'Pictures' icon. Navigate to your computer's Desktop folder where the picture is located. Select the picture file and click 'Insert.',q_14,incorrect
+23-q_14,,q_14,incorrect
+24-q_14,This object is the Content Placeholder. Click the Pictures icon inside this content placeholder to open the Insert picture dialog box Scroll through the list of files on the Desktop to find that picture  double-click the name of this picture which will insert it into the slide thus replacing the placeholder.,q_14,correct
+25-q_14,Because the object is a content placeholder we can click on the picture icon inside it to open the Insert image Dialog box and find the image you need from your comouter s desktop folder double click on it.,q_14,correct
+28-q_14,Click the pictures (bottom left icon). The computer's pictures folder will pop up. select the correct folder if this isn't the right one. Then click on the picture you want to insert and click insert.,q_14,correct
+2-q_14,,q_14,incorrect
+31-q_14,This object is the Content Placeholder. Click the Pictures icon inside this content placeholder to open the Insert picture dialog box then Scroll through the list of files on the Desktop to find that picture and then double-click the name of this picture which will insert it into the slide thus replacing the placeholder.,q_14,correct
+32-q_14,Click the bottom left icon. Initially your computer's Pictures folder will appear. If your images are stored elsewhere find the correct location to access your image. And then select the desired picture or image for insertion.,q_14,correct
+34-q_14,Use the pictures option in the insert tab using the pictueres button usses stored images on your computer. Click picture from file and add your image.,q_14,incorrect
+35-q_14,You can do so by clicking on the picture button on the bottom left corner,q_14,correct
+3-q_14,This is the Content Placeholder. Click the picture icon inside this content placeholder to open the Insert picture dialog box then scroll through the list of files on the Desktop to find that picture the double-click the name of this picture which will insert into the slide thus replacing the placeholder,q_14,correct
+44-q_14,We should click the picture icon inside the content placeholderto open the insertpicture dialog box then we should scroll through the list of files on the Desktop to find that picture we are lookong for. Double-click the name of this picture which will insert it into slide.,q_14,correct
+45-q_14,you can click the icon inside the textbox 'insert picture from file' and you can insert the picture from your computer.,q_14,correct
+46-q_14,This can be done by clicking the first icon of the second row that has a mini computer screen then select the picture you want to insert.,q_14,correct
+47-q_14,The object has several icons that all the user to quick replace the textbox with whichever they like. The user can click on the first icon on the bottom row to the left which will bring up the dialogue option to insert an image from the desktop.,q_14,correct
+49-q_14,You can click the PICTURES icon on the bottom left. This will pop up a window to the Picture's folder and from there you can click on the image and then click INSERT.,q_14,correct
+50-q_14,1)Click the insert box 2)Select Pictures the bottom left icon. 3) your computer s Pictures folder will pop up 4)Click on the picture or image you wish to insert. 5) Then click insert.,q_14,correct
+51-q_14,,q_14,incorrect
+53-q_14,you need to click on insert from file which is the first button in the second row.,q_14,correct
+56-q_14,This object is the Content Placeholder. Click the Pictures icon inside this content placeholder to open the Insert picture dialog box Scroll through the list of files on the Desktop to find that picture  double-click the name of this picture which will insert it into the slide thus replacing the placeholder.,q_14,correct
+59-q_14,This is the content placeholder. Click on the 'Insert Picture' Icon on the placeholder > Select the file picture > double click the name of the picture and it will be added to the slide.,q_14,correct
+5-q_14,Clicking the bottom left corner icon in Figure X will display an option to pick the picture you want to insert onto the slide.,q_14,correct
+60-q_14,This object is the Content Placeholder. Click the Pictures icon inside this content placeholder to open the Insert picture dialog box Scroll through the list of files on the Desktop to find that picture  double-click the name of this picture which will insert it into the slide thus replacing the placeholder.,q_14,correct
+6-q_14,You can do so by clicking the icon with an image and a desktop on the bottom left corner in the content box. By clicking this icon you will be directed to choose the image file located on your desktop to be inserted.,q_14,correct
+10-q_42,Click on the table icon (the first icon from Figure X) then enter 3 for number of rows and 2 for number of columns.,q_42,correct
+11-q_42,,q_42,incorrect
+14-q_42,Click the 'Insert Table' icon inside the placeholder to open the Insert Table dialog box -> Type 3 in the 'Number of row' box and 2 in the 'Number of columns' box Click OK to add the table.,q_42,correct
+17-q_42,To insert a table with 3 rows and 2 columns click the 'Insert Table' icon inside the content placeholder shown in Figure X and the Insert Table dialog box will open up. Type 3 in the Number of rows box and 2 in the Number of columns box and click OK to add the table.,q_42,correct
+19-q_42,A insert a table click the icon to the most top-left.,q_42,correct
+21-q_42,I need to click 'Insert Table' in this content placeholder and then the Insert Table dialog box will be open and then type 3 in the Number of rows box and type 2 in the Number of columns box then click 'OK'.,q_42,correct
+23-q_42,,q_42,incorrect
+24-q_42,This object is a content placeholder. Click the Insert Table icon inside this content placeholder to open the Insert Table dialog box Type 3 in the Number of rows box and 2 in the Number of columns box Click OK for the table to be added.,q_42,correct
+25-q_42,Because the object is a content placeholder we can click on table icon and to open the Insert Table dialog box enter 3 in the Number of rows box and 2 in the Number of columns box Click OK for the table to be added,q_42,correct
+2-q_42,,q_42,incorrect
+32-q_42,click the table option and click the boxes according to how you want your table to look like.,q_42,correct
+34-q_42,Clicl the table icon and enter 3 for rows and 2 for columns.,q_42,correct
+35-q_42,You can do so by clicking on the table button which would be the first on the top left corner and then entering 3 rows and 2 columns,q_42,correct
+36-q_42,This object is the Content Placeholder. Click the Table Icon inside this content placeholder to open the Insert Table dialog box. In the openned dialog box choose number of columns as 2 and number of rows as 3) A table with three rows and two columns will be inserted.,q_42,correct
+3-q_42,You click on the first one on the first line where it shows a 'tables' icon in the Content placeholder to open'Insert' then in the 'tables' a grid will appear select 3x2 size (3 rows and 2columns),q_42,correct
+42-q_42,The object that can be seen is a content placeholder. In order to insert and follow the directions being asked we must Click the Insert Table icon inside this content placeholder to open the Insert Table dialog box Type 3 in the 'Number of rows' box and 2 in the 'Number of columns' box . To finalize this click OK for the table to be added.,q_42,correct
+46-q_42,This can be done by clicking the 'Insert table' icon inside the content placeholder to open the Insert Table dialog box then type 3 in the Number of rows box and 2 in the Number of Columns box finally click OK to add the table.,q_42,correct
+48-q_42,,q_42,incorrect
+49-q_42,You can click on the TABLE icon on the top left. A window will pop up and you can input 3 for the 'number of rows' and 2 for the 'number of columns.',q_42,correct
+54-q_42,You click on the Table icon in the placeholder a pup up box will pop up and you type how big you want you table to be then you select ok to insert the table in the box,q_42,correct
+57-q_42,To insert a table with 3 rows and 2 columns you need to click on the small Table icon in the center. Alternatively it will show you Insert tab Table button Insert Table option and a dialogue box opens. Once the Insert Table dialog box opens enter the number of columns which is 2 and rows which is 3 then click OK or insert (for mac).,q_42,correct
+58-q_42,Locate the insert table option in the content placeholder from the dropdown menu insert tab select the number and rows you want for your table.,q_42,correct
+6-q_42,You can do so by clicking the table like icon in the top left corner of the content box. Then a dialog box will appear asking how many columns and rows you desire in the table and you can then input your desired number and press 'OK'.,q_42,correct
+7-q_42,1)Another way to insert a table in a PowerPoint slide is to go to Insert tab and insert a new slide. 2) This time click on the small table icon in the center. Alternatively select Insert tab Table button Insert Table option and a dialogue box opens.,q_42,correct
+8-q_42,We click on the table icon and using this we can oen the insert table dialog box and we type 3 to have the number of rows and then 2 to have the number of columns. When we are done with that we click on the OK and we should have the table added.,q_42,correct
+10-q_48,Select all the 3 shapes by clicking and holding the Control button on the keyboard and clicking on each of the shapes . Click the Drawing Tools (Shape) Format Tab Click the Align button Click 'Align to Slide' Click the Align button again Click 'Distribute Horizontally'.,q_48,correct
+16-q_48,The Arrange menu found in the Drawing group of the Home tab helps after you select the object you want to arrange . The dropdown Arrange menu provides you a variety of options and has been used to and option (align) helps the object position from Figure X to Figure X,q_48,incorrect
+18-q_48,Click on each the shape you want to move and click on the format tab. You would go to arrange group and click on align. In align you would click on distribute hortizonntally.,q_48,correct
+19-q_48,Select the shapes by clicking on them. Then on top click the 'Format' tab. Click on the 'Arrange' dropdown menu. In the 'Position Objects' hover over 'Align'. Finally click 'Distribute Horizontally'.,q_48,correct
+1-q_48,First select the image that you want to move. Click on the Format tab then arrange then align.,q_48,incorrect
+20-q_48,You can use the Align button in Drawing tools (shape) format tab to align the diamond and cube shape to the left and hourglass shape to the right.,q_48,incorrect
+21-q_48,I need to select all of these shapes and then go to 'Format' and select 'align'and then select 'align center'. All these shapes will be appear in the center of the slide.,q_48,incorrect
+29-q_48,,q_48,incorrect
+2-q_48,,q_48,incorrect
+31-q_48,Select all the 3 shapes by clicking and holding the Control button on the keyboard and clicking on each of the shapes then Click the Drawing Tools (Shape) Format Tab then Click the Align button then Click Align to Slide then Click the Align button again and then Click Distribute Horizontally .,q_48,correct
+35-q_48,You can do so by clicking on the shapes that will be moved and clicking on align button then distribute horizontally,q_48,correct
+36-q_48,Select all the 3 shapes by clicking and holding the Control button and clicking on each of the shapes. Then Click the Drawing Tools Format Tab > Click the Align button > Click 'Align to Slide' > Click the Align button again > Click 'Distribute Horizontally'.,q_48,correct
+39-q_48,you select all the shapes. click the drawing tools (shape) then click the align button then click 'align to slide' then click the align button again click 'distribute horizontally'.,q_48,correct
+3-q_48,Select all the 3 shapes by clicking and holding the control button on the keyboard and clicking pn each of the shapes then clicking the Drawing Tools (shape)then Format Tab then Click Align button then click align to slide then click the align button again then click Distribute Horizontally,q_48,correct
+40-q_48,Click on each shape while holding the Ctrl button on the keyboard and click on the drawing tools under the Shape Format tab then click the align button and Click align to slide. Once you done that click the align button once again and click on distribute horizontally.,q_48,correct
+45-q_48,Select all the 3 shapes by clicking and holding the Control button on the keyboard and clicking on each of the shapes Click the Drawing Tools (Shape) Format Tab Click the Align button Click Align to Slide Click the Align button again Click Distribute Horizontally .,q_48,correct
+47-q_48,You should select all shapes that can be through either using the cursor or using shift to select every individual shape. The shape format tab will open up and then you would click 'align middle' which would line up everything on the middle and then you would click 'distribute horizontally' which would then space out everyhting evenly. However for Figure X the user must have moved a the two shapes on the side a bit closer.,q_48,correct
+48-q_48,,q_48,incorrect
+53-q_48,select all the shapes clicking and holding the control button and click drawing tools (shape) format tab align button align to slide align again and distribute horizontally,q_48,correct
+55-q_48,You can make them into a Group using the Group Objects menu. Grouping different objects together turns them into a single object. In this way they can be moved aligned or resized as a unit instead of individually,q_48,incorrect
+56-q_48,Select all the 3 shapes by clicking and holding the Control button on the keyboard and clicking on each of the shapes Click the Drawing Tools (Shape) Format Tab Click the Align button Click Align to Slide Click the Align button again Click Distribute Horizontally .,q_48,correct
+57-q_48,You can move rthe shapes shown in Figure X by using the ARRANGE Button found in the Drawing Tab. Since we have multiple objects I will say in Figure X all of the objects were grouped by using the Group Objects menu that will still be found in Arrange. Which made them aligned and we can also resized them as a unit instead of individually.,q_48,incorrect
+58-q_48,Select all the 3 shapes by clicking and holding the Control button on the keyboard and clicking on each of the shapes Click the Drawing Tools (Shape) Format Tab Click the Align button Click Align to Slide Click the Align button again Click Distribute Horizontally,q_48,correct
+59-q_48,Select the Shapes > Click on the 'Shape Format Tab' > click the 'Align' arrow on the Arrange Group > Select the 'Align Center' option.,q_48,incorrect
+5-q_48,In order to get result Figure X you would first want to select all the shapes then Arrange > Align button while selecting the 'Distribute Horizontally' button to get Figure X as a result.,q_48,correct
+60-q_48,Select all the 3 shapes by clicking and holding the Control button on the keyboard and clicking on each of the shapes Click the Drawing Tools (Shape) Format Tab Click the Align button Click Align to Slide Click the Align button again Click Distribute Horizontally .,q_48,correct
+6-q_48,You can do so by clicking the ' Arrange' button found in the drawing group of the Home tab. you can then select each object to arrange and align them in the specific positions shown above. Then Aligning one object to the left center and right.,q_48,incorrect
+7-q_48,The Arrange menu is found in the Drawing group of the Home tab The dropdown Arrange menu provides you a variety of options.,q_48,incorrect
+12-q_22,,q_22,incorrect
+15-q_22,,q_22,incorrect
+1-q_22,,q_22,incorrect
+21-q_22,I need to right-click the slide that I want to delete inside the Slides tab and then go to 'Home' click 'New Slide' and the select 'Title and Content'.,q_22,incorrect
+22-q_22,Access the layout options and click on layout: In the 'Slides' group click on the 'Layout' dropdown arrow. This action will display a list of available slide layouts. Choose 'Title and Content' Layout: From the dropdown menu select the 'Title and Content' layout option. This layout typically features a title placeholder at the top and a content placeholder below it. Apply the Layout: Click on the 'Title and Content' layout option in the dropdown menu. The selected slide will now be updated to the 'Title and Content' layout.,q_22,correct
+27-q_22,Right-click the slide you want to delete inside the Slides tab Move the mouse above the Layout option Click on the layout which we want the slide to have. or without deleting Go to the 'Home' tab on the ribbon. In the 'Slides' group click the 'Layout' from the menu. Choose the 'Title and Content' layout.,q_22,correct
+33-q_22,Right-click the slide you want to delete inside the Slides tab -> Move the mouse above the 'Layout' option -> Click on the layout which you want the slide to have.,q_22,correct
+41-q_22,,q_22,incorrect
+52-q_22,Right click the current slide to the left then hover over 'Layout.' After click Title and Content.,q_22,correct
+55-q_22,To change a slide's layout to 'Title and Content' in PowerPoint first select the slide then click on 'Layout' in the 'Home' tab and choose 'Title and Content' from the options. This action updates the slide layout providing spaces for a title and various content types.,q_22,correct
+10-q_8,The three shapes have been grouped into a single shape. To group the shapes select them all by using the Ctrl or Command button. Then click the Home tab Arrange button then Group option to group the shapes.,q_8,correct
+11-q_8,,q_8,incorrect
+15-q_8,,q_8,incorrect
+17-q_8,To change the shapes in Figure X to the shape in Figure X you will select the shapes using the Ctrl or Command button. Then you will click on Home tab click the Arrange button and select the Group option to group the shapes.,q_8,correct
+18-q_8,You would press and hold control while you click on the icons you to want to group together. Then you would go on the format tab and click on the group and group to make them into one object.,q_8,correct
+22-q_8,Select the shapes if you want to select multiple shapes hold down the shift jey on your keyboard while clicking on each shape. Within the 'Format' tab or Drawing toolbar locate the 'Shape Fill' 'Shape Outline' and 'Shape Effects' options. These options allow you to change the appearance of the selected shape(s).,q_8,incorrect
+26-q_8,You could do so by group all the images together by highlighting over each image at the same time making it one image or 'Three Shapes: Changed'?,q_8,correct
+28-q_8,Select all the object by dragging from a corner and holding down the left mouse button. Make sure all objects are included. Release the mouse and click on home tab then arrange button then group objects and lastly click group.,q_8,correct
+31-q_8,The three shapes have been grouped into a single shape. To group 2 or more shapes select them all by using the Ctrl or Command button. Then click the Home tab then click the Arrange button and then Group option to group the shapes.,q_8,correct
+32-q_8,select them all by clicking ctrl and then home tab--> arrange tab and then group option to group the shapes.,q_8,correct
+35-q_8,This can be done by selecting all the shapes you wish to merge into one object clicking home then arrange and finally clicking on the group button,q_8,correct
+36-q_8,The three shapes have been grouped into a single shape. To group 2 or more shapes select them all by using the Ctrl button. Then click the Home tab > Arrange button > Group option to group the shapes.,q_8,correct
+38-q_8,Highlight the pictures and in the 'Home' tab go to 'Arrange' and then go to 'Group'.,q_8,correct
+39-q_8,to group the shapes together you selet them all using the command button then click the home tab arrange button and group option to group the shapes.,q_8,correct
+3-q_8,The three shapes have been grouped into a single shape. To group 2 or more shapes select them all by using the Ctrl. Then click the Home tab then Arrange button the Group option to group the shapes.,q_8,correct
+40-q_8,You can group the three images together by selecting each image while holding the Ctrl button then on the Home Tab click on the Arrange button and lastly click on the group option it will group those three images together.,q_8,correct
+41-q_8,The three shapes have been grouped into a single shape. To group two or more shapes select them all by using the Ctrl or Command button. Then click the Home tab then click on Arrange button and then lastly the Group option to group the shapes.,q_8,correct
+44-q_8,The three shapes have been grouped into a singlr shape. To group three of them in one we should select them all by using Ctrl or Command button. Then we click the home tab- Arrange button-Group option to group the shapes,q_8,correct
+47-q_8,You can select them all by using the shift button and clicking on every individual shape and then right click which brings up the quick options menu and then you click on 'group',q_8,correct
+49-q_8,You can highlight all three of the shapes by taking your mouse cursor and dragging left click over all of them. Then on the HOME tab click the ARRANGE button and where it says GROUP OBJECTS click GROUP.,q_8,correct
+54-q_8,You use your mouse to select all shapes you want to merge click on the home tab go to arrange and,q_8,correct
+6-q_8,You can do so by clicking the left mouse button and dragging the select field across all desired objects then selecting the arrange button and clicking group objects. Once you selesct group this will group allt he selected objects into one group.,q_8,correct
+8-q_8,We can select them through the ctrl button and after we do that we can click on home tab select arrange button and the group option and this would allow us to group all 3 shapes into one shape essentially,q_8,correct
+14-q_69,navigate to the slide you want to delete -> hover over it -> right click and select delete slide.,q_69,correct
+24-q_69,Open your PowerPoint presentation navigate to the slide you want to delete click on the slide thumbnail in the slide pane on the left side of the screen to select it press the 'Delete' key on your keyboard.,q_69,correct
+44-q_69,Click the slide once - press the delete or BACKSPACE on the keyboard.,q_69,correct
+47-q_69,1) Select the slide you want to delete in the slides thumbnail pane on the left side. 2 .Right-click on the selected slide. 3) From the context menu that appears choose 'Delete Slide.',q_69,correct
+28-q_11,Ctrl + D on the slide will duplicate it.,q_11,correct
+29-q_11,,q_11,incorrect
+45-q_11,stay on the slide that you want and go to insert tab and click on the down arrow next to new slide. On the Botton of the options there show be option for duplicate slide.,q_11,correct
+48-q_11,,q_11,incorrect
+9-q_11,Clipboard>Duplicate,q_11,correct
+6-q_92,There would be 26 points of space between the two paragraphs.,q_92,correct
+54-q_154,there will be 18 points of space between the 2 paragraphs,q_154,correct
+31-q_148,26 points,q_148,correct
+3-q_149,Since there is 14 points of space below the 1st paragraph and there are 10 points of space above the second paragraph there will be a total 24 points of space between the two paragraphs .,q_149,correct
+9-q_149,Their would be a total of 38.4 points space,q_149,incorrect
+26-q_145,You could add the space above the second paragraph and below the first paragraph together which will let you know that there are 30 points of space between the two paragraphs. Total space = 14 points + 16 points = 30 points,q_145,correct
+20-q_132,31 spaces between the paragraphs.,q_132,correct
+5-q_133,A paragraph with 14 pts of space below it with another 18 pts below before hitting the next paragraph should mean that there is 14+18= 32 pts of space between the two paragraphs.,q_133,correct
+51-q_152,There are 8 spaces.,q_152,incorrect
+17-q_103,There will be a total of 23 points of space between the two paragraphs since 15 plus 8 equals 23),q_103,correct
+21-q_103,there is 23 points space between the two paragraphs,q_103,correct
+8-q_156,Since there are 15 points of space below the first paragraph and there are 9 points of space above the 2nd paragraph there will be a total of 24 points of space between the paragraphs,q_156,correct
+52-q_153,There is 24 points of space between the two paragraphs.,q_153,correct
+12-q_142,,q_142,incorrect
+61-q_155,there is 28 points between the two paragraph. That's because there was already 18 points of space and then they added another 10 which becomes 28),q_155,correct
+44-q_150,Since there are 19 points of space below it and the paragraph underneath has additional 11 points of space above it there will bea total of 30 points of space between the two paragraphs.,q_150,correct
+15-q_98,,q_98,incorrect
+45-q_151,Since there are 12 points of space below the 1st paragraph and there are 18 points of space above the 2nd paragraph there will be a total of 30 points of space between the two paragraphs.,q_151,incorrect
+16-q_143,Since there are 20 points of space below the 1st paragraph and there are 10 points of space above the 2nd paragraph there will be a total of 30 points of space between the two paragraphs.,q_143,correct
+29-q_147,,q_147,incorrect
+11-q_141,,q_141,incorrect
+23-q_144,,q_144,incorrect
+1-q_68,,q_68,incorrect
+27-q_146,Since there are 9 points of space below the 1st paragraph and there are 19 points of space above the 2nd paragraph there will be a total of 28 points of space between the two paragraphs.,q_146,correct
+11-q_9,,q_9,incorrect
+12-q_9,,q_9,incorrect
+14-q_9,The style of the table on the PowerPoint slide will change to the one that you selected.,q_9,correct
+15-q_9,,q_9,incorrect
+1-q_9,The type of table will change on the PowerPoint slide.,q_9,correct
+23-q_9,,q_9,incorrect
+24-q_9,The style of the table on the PowerPoint slide will change to the one that you click among the Many options,q_9,correct
+26-q_9,If you click on any of the options shown in Figure X the object that will change on the PowerPoint slide is the theme or color scheme of the table. Here's how the different options will affect the table: Best match for document: This option will apply a theme or color scheme that PowerPoint considers the best match for the overall theme or design of your presentation. It takes into account the existing theme and adjusts the table's colors accordingly to maintain consistency with the rest of the slides. Light: Choosing the 'Light' option will apply a lighter color scheme to the table. Typically this means using lighter shades for background colors and possibly adjusting the font colors to ensure readability against the lighter background. Medium: Selecting the 'Medium' option will apply a color scheme that falls somewhere between light and dark. It might use moderate contrast colors for better visibility while still maintaining a balanced look.,q_9,correct
+27-q_9,The style of the table on the PowerPoint slide will change to the one that we click among the Many options .. We will change color to Medium Since mouse is on the Medium Blue . However clicking any of the options in the 'Figure X: Many options' section will most likely apply the chosen new color. This will replace the default blank slide layout with the design elements and formatting specified in the template. Templates can include pre-designed layouts color schemes fonts and graphics.,q_9,correct
+30-q_9,The object that will change is the color of the table style in the powerpoint slide. This will change by the colors of the table changing to whichever option you picked it does this by...simply just changing the color option from the past option to what you chose.,q_9,correct
+32-q_9,Table Design tab offers a variety of formatting and style options for a PowerPoint table. Clicking 'Table Design' in PowerPoint alters selected table appearance and formatting. It offers tools for customizing design layout style borders cell shading and text formatting enhancing table presentation.,q_9,correct
+37-q_9,Table that i have in my slide. The format can change the text background table borders cells etc.,q_9,correct
+38-q_9,The options in Figure X are options of styles for tables. If the table is clicked on and one of the option in Figure X is clicked on the style of the table will change such as the color.,q_9,correct
+3-q_9,In the Figure X it shows the the tables colors and how the columns will be so if you choose the desired color it will change it by clicking on the color you want,q_9,correct
+43-q_9,This will change a table's style into Light Medium or Dark table colors.Select the style format click on it and the table is changed to the new style.,q_9,correct
+47-q_9,The overall style of the table on the PowerPoint slide will change based on the specific option you select.,q_9,correct
+50-q_9,Change a table s border thickness color or pattern by selecting those options in the Draw Borders group under the Table Design tab.,q_9,correct
+51-q_9,If you click on any of the tabs in Figure X the Table Design option will appear and offer a variety of formatting and style options for a PowerPoint table. You can change a table s style by hovering over the colored tables or clicking the down arrow to see table style options.,q_9,correct
+58-q_9,The layout color scheme will change.,q_9,incorrect
+61-q_9,it will change the color or design of the table on you slide. It is also called a table design.,q_9,correct
+7-q_9,Changes a tables style.,q_9,correct
+9-q_9,Their will be a Table you can adjust how many columns and color,q_9,correct
+14-q_78,Clicking on one of these squares will add a SmartArt graphic to the presentation.,q_78,correct
+20-q_78,The text will remain the same but the SmartArt will change and the text will move around.,q_78,correct
+26-q_78,If you would click on one of these squares it will add a SmartArt graphic to the presentation.,q_78,correct
+31-q_78,Clicking on one of these squares will add a SmartArt graphic to the presentation.,q_78,correct
+37-q_78,It will add a SmartArt graphic to the presentation.,q_78,correct
+41-q_78,If you click on one of these squares will add a SmartArt graphic to the presentation.,q_78,correct
+43-q_78,If you click on one of these squares it will add a SmartArt graphic to the presentation.,q_78,correct
+49-q_78,Clicking on one of these squares will add a SmartArt graphic to the PowerPoint presentation.,q_78,correct
+51-q_78,It changes because you are adding SmartArt. A SmartArt graphic is a visual representation of your information and ideas.,q_78,correct
+58-q_78,Clicking on one of the square options will add a SmartArt graphic to the presentation.,q_78,correct
+6-q_78,If you click any of the squares in Figure X a graphic will appear on the slide it is inserted to that looks exactly like what you chose. The graphic will look like it depicting a process and will have text boxes within them.,q_78,correct
+18-q_61,It change how the transition of the slide would look. Instead of the next slide just being shown it would have some type of animation and then next slide would be shown.,q_61,correct
+23-q_61,,q_61,incorrect
+29-q_61,,q_61,incorrect
+34-q_61,If you click on any of the squares the transition will change in the presentation. You cannot see them until you start the slideshow.,q_61,correct
+40-q_61,If you click on one of the square boxes it would display a transition or an animation on how the slide should be displaced or the context on the slide should be displayed. For example let's say you click on curtains button under the Transition button you can click on Preview and it will show you curtains once that slide is displayed.,q_61,correct
+42-q_61,Clicking on any one of these squares will add a transition between the slides of the presentation.,q_61,correct
+45-q_61,If I click on the push animation when the next slide appears it will be moving up from the Botton.,q_61,correct
+59-q_61,If we click on any of the Squares in the picture the transition corresponding to the one selected will be added to a PowerPoint Slide.,q_61,correct
+9-q_61,Their will be a Transtion effect that can change the way you move on to the next slide,q_61,correct
+11-q_18,,q_18,incorrect
+16-q_18,As a result the overall look and color scheme of your presentation will change to the one you click as it would change the design of it as well as colors.,q_18,correct
+46-q_18,The design theme will change meaning that by selecting one of the designs all the slides that are already added and to be added will be in the selected design.,q_18,correct
+5-q_18,Clicking on any of the squares means you will change the 'Theme' of the presentation. This meaning that the whole presentation will change in look and color depending on with option you pick.,q_18,correct
+61-q_18,it will change the overall theme of the Presentation.,q_18,correct
+10-q_52,A chart of the option you specify will be added to the PowerPoint slide.,q_52,correct
+11-q_52,,q_52,incorrect
+12-q_52,,q_52,incorrect
+13-q_52,A chart of the option you specify will be added to the PowerPoint slide,q_52,correct
+15-q_52,,q_52,incorrect
+17-q_52,A chart with the option you select will be added to the PowerPoint slide.,q_52,correct
+18-q_52,You would create an empty chart unless you make it using data from the file.,q_52,correct
+1-q_52,Clicking on Pie will create a Pie chart.,q_52,correct
+20-q_52,A graph would be added to the Powerpoint slide.,q_52,correct
+21-q_52,,q_52,incorrect
+26-q_52,If I were to click on the column option then a column chart would be added.,q_52,correct
+27-q_52,The drop-down menu appears chart menu and it gives a good variety of charts from which to select for slide. The menu shows various chart types including Line Column Pie and Area. These are all different ways to visually represent data in a presentation A chart of the option templates specify will be added to the PowerPoint slide.( since mouse on the template),q_52,correct
+29-q_52,,q_52,incorrect
+2-q_52,,q_52,incorrect
+30-q_52,A chart of the option that you wanted will be added to the powerpoint slide.,q_52,correct
+31-q_52,A chart of the option you specify will be added.,q_52,correct
+33-q_52,A chart of your choice will be added to the PowerPoint slide,q_52,correct
+36-q_52,A chart of the option you specify will be added to the PowerPoint slide,q_52,correct
+39-q_52,a type of chart will be inserted.,q_52,correct
+43-q_52,A chart of the option you specify will be added to the PowerPoint slide.,q_52,correct
+44-q_52,A chart on the option you specify will be added to the Powerpont slide/,q_52,correct
+49-q_52,A CHART will be inserted into the PowerPoint slide.,q_52,correct
+50-q_52,1) Column 2) line 3) pie 4) bar 5)area 6) X Y scatter 7)Map 8) Recent,q_52,incorrect
+53-q_52,a chart that you choose,q_52,correct
+59-q_52,A chart of the option selected will be added to the presentation.,q_52,correct
+5-q_52,Clicking the 'Template' button on Figure X would give you many general options of chart templates that you could add onto the PowerPoint slide.,q_52,correct
+6-q_52,The kind of object that would be added would be a chart.,q_52,correct
+7-q_52,,q_52,incorrect
+8-q_52,The object that would be added is a chart based on the selection you pick from the list in Figure X,q_52,correct
+9-q_52,It offers you any kind of chart designs,q_52,correct
+19-q_4,To change the margin size of the document to 0.5 inches all across first click the 'Layout' tab. In the top-left click the Margin dropdown menu. Finally click the 'Narrow' option.,q_4,correct
+20-q_4,You can search for 'Word' directly in the Windows search bar located next to the Start button. Click on it to open the Word application.,q_4,incorrect
+21-q_4,I need to go 'Layout' and then select 'Margin' and then select 'Custom Margins' and change the all the size to 0.5 inches,q_4,correct
+22-q_4,By clicking on the layout tab in the ribbon on the top of the word window. Then locate the 'Margins' button in the 'Page Setup' group. Click on the dropdown arrow next to the Margins button. From the dropdown menu select 'Narrow' or 'Custom Margins.' If you select 'Custom Margins' you can specify the margin size of 0.5 inches for all sides in the dialog box that appears.,q_4,correct
+24-q_4,click Layout tab click the Margins button click the Custom Margins option in the Page Setup dialog box that appears go to the 'Margins' tab under the 'Margins' section you'll see fields for Top Bottom Left and Right margins. Enter '0.5' in each of these fields ( make sure the measurement units are set to 'inches. ) click the 'OK' button to apply the changes.,q_4,correct
+25-q_4,click on the page layout within the layout group find margin select custom margin set it to 0.5,q_4,correct
+34-q_4,Click on the page layout tab in the page setup group you will find the margins dropdown click the arrow to select custom margins then add the margins size 0.05.,q_4,correct
+35-q_4,First click on the paragraph setting in the ribbon go under indentation and then entering o.5,q_4,correct
+36-q_4,Select Layout > Margins. Select Custom Margins. In Margins use the Up and Down arrows to enter the values you want. Select OK when done. or you can also use the Ruler.,q_4,incorrect
+41-q_4,To change the Margin size of the document to 0.5 inches all across you would click the Page Layout tab then go to the Margins and then choose the size that says 0.5.,q_4,correct
+48-q_4,,q_4,incorrect
+51-q_4,The Page Layout tab should be selected. The Margins dropdown is a part of the Page Setup group. To select your desired margins click the arrow to open the options.,q_4,incorrect
+58-q_4,Select Layout Tab in the ribbon locate Margin option in the Page serup group from the drop down menu select Custom Margins then enter 0.5 into the fields for top bottom left and right.,q_4,correct
+59-q_4,Click 'Layout Tab' > Click on the 'Margins' Arrow of the Page Setup Group > Select the 'Narrow' option that has the 0.5 inches all across.,q_4,correct
+9-q_4,layout>margins,q_4,incorrect
+14-q_41,1) Click on the view tab -> click the 100% view button. 2) At the bottom right of the word application click on the zoom percentage -> click 100% -> click ok.,q_41,correct
+22-q_41,Using the zoom slider in the bottom-right corner there is a slider marked with a magnifying glass icon. Using the zoom dialog box.,q_41,correct
+27-q_41,Ribbon: View tab > Zoom > 100% Slider: Drag slider in bottom corner to 100% .,q_41,correct
+34-q_41,1) using the bar on bottom moving left or right will zoom in and out. To zoom to 100% move the bar to the right. 2) Press the View tab in the Zoom group click Zoom 100%,q_41,correct
+3-q_41,1) You can click on ''View'' tab in the toolbar then select '100%' from 'zoom' group 2) use zoom slider located in the bottom right corner of the word window and adjust it to 100% 3) You can use the keyboard shortcut 'ctrl +1' to set the zoom level to 100%,q_41,correct
+4-q_41,On the View tab in the Zoom group click Zoom 100%. This returns the view to 100% zoom. On the View tab in the Zoom group click Zoom and then enter a percentage or choose any other settings that you want.,q_41,correct
+52-q_41,Two ways to zoom are using the zoom bar on the bottom right of the status bar and by going to the 'View' tab and clicking the 'Zoom' button allowing you to customize your zoom.,q_41,correct
+59-q_41,1) By moving the bar located on the left of the Status Bar to the left or right. 2) Click on the 'View Tab' and then select the 'Zoom' option of the 'Zoom Group',q_41,correct
+8-q_41,Two ways you can change the zoom of a word document is to use the zoom slider in the view tab and your keyboard shortcuts can also help you zoom in or out.,q_41,correct
+18-q_38,There is the copy function which is Control + C. The Paste function and the buttons are Control + V. A third one would be bold and the button is Control + B.,q_38,correct
+25-q_38,Bold > It makes the characters bold giving it a thicker and darker apperance Italic > It makes the charaters slang to the right Underline > It makes a line appear under the characters,q_38,correct
+19-q_67,Save Undo Redo.,q_67,correct
+29-q_67,,q_67,incorrect
+47-q_67,1) Save 2) Undo 3) Redo,q_67,correct
+9-q_67,Save Undo Redo,q_67,correct
+14-q_55,Two buttons on the design tab of word is 'Colors' and 'Fonts',q_55,correct
+24-q_55,Watermark page color,q_55,correct
+27-q_55,1)Watermark: The Watermark button allows us to insert pre-designed or custom watermarks into our document. Watermarks can be used to indicate the status of the document (e.g. 'Draft' or 'Confidential') etc. 2) Page Borders: The Page Borders button allows us to add borders around pages paragraphs or text boxes in our document. We can choose from various border styles colors and line widths to customize the appearance of our document.,q_55,correct
+28-q_55,Themes and colors.,q_55,correct
+2-q_55,,q_55,incorrect
+30-q_55,Page color and watermark.,q_55,correct
+44-q_55,The design tab provides format themes bacgrounds color schemes. Just add more than two commands on the Design tab of Word.,q_55,correct
+50-q_55,'SmartArt Styles': Used to apply different styles to SmartArt graphics. 'Page Color': Allows you to change the background color of the page.,q_55,correct
+60-q_55,1)'Themes': This button allows you to choose from a variety of predefined themes that can be applied to your document to change its overall appearance including font styles colors and effects. 2)'Page Color': This command allows you to change the background color of the document's pages. You can choose from a range of colors or even add a gradient or a picture as the background.,q_55,correct
+13-q_60,The status bar has a zoom button and a page count.,q_60,correct
+35-q_60,Two commands/buttons on the Status Bar would be zoom-in bar and total number of words,q_60,correct
+41-q_60,The two commands/buttons on the Status Bar are Page Count and Word Count.,q_60,correct
+42-q_60,two command buttons on a status bar are page count/number which shows the current page you are specifially on and the total page amount within the document. Another command/button that can be found is the word count which will identify the total amount of words within the document,q_60,correct
+45-q_60,Cap Lock Num Lock,q_60,incorrect
+49-q_60,Two commands on the Status Bar are the WORD COUNT and the PAGE COUNT.,q_60,correct
+13-q_10,Transitions Animations,q_10,correct
+17-q_10,Two tabs in PowerPoint that Word does not have are Animations and Slide Show.,q_10,correct
+19-q_10,PowerPoint has the 'SlideShow' and 'Transitions' tabs.,q_10,correct
+20-q_10,Design tab and Transitions tab.,q_10,incorrect
+24-q_10,Transitions Animations,q_10,correct
+25-q_10,Design Tab Transitions Tab,q_10,incorrect
+27-q_10,1) Transitions Tab:Transitions tab allows users to add transition effects between slides in presentation. Those effects control how slides appear and disappear during a slideshow word does not have that. 2) Animations Tab: this provides tools for adding animations to various elements on slides such as text images and shapes. Users can choose many animation effects and customize their timing and order.,q_10,correct
+30-q_10,Slide show and Animations.,q_10,correct
+31-q_10,Transitions Animations,q_10,correct
+35-q_10,Powerpoint has the tab 'Transitions' and 'Animations' which Word does not have,q_10,correct
+37-q_10,Transitions and design tab,q_10,incorrect
+38-q_10,Two tabs that Powerpoint have that Word does not have is 'Animations' and 'Slide show'.,q_10,correct
+3-q_10,,q_10,incorrect
+40-q_10,The two tabs in PowerPoint that Word does not have are Transitions and Record.,q_10,correct
+43-q_10,Animations and Transitions.,q_10,correct
+48-q_10,,q_10,incorrect
+4-q_10,Slides and clipboard on the ribbon,q_10,incorrect
+52-q_10,Animations and Slide Show.,q_10,correct
+54-q_10,2 tabs that word does not have in PowerPoint is the Animation and Transition tabs,q_10,correct
+57-q_10,Transition Tab and Animation Tab,q_10,correct
+58-q_10,Transitions and animations.,q_10,correct
+59-q_10,Transitions and Animations,q_10,correct
+61-q_10,Animations and slide show.,q_10,correct
+6-q_10,Two tabs that PowerPoint that word does not have is Transitions and Animations.,q_10,correct
+8-q_10,Two tabs in Power Point that Word does not have is the transitions and animations tab,q_10,correct
+20-q_24,Comparison type slide.,q_24,correct
+47-q_24,The specific slide here in Figure X is Comparison.,q_24,correct
+4-q_24,Name of the slide above is Comparison,q_24,correct
+58-q_24,It is called the Comparison Theme when you click New Slides.,q_24,correct
+7-q_24,Comparison,q_24,correct
+25-q_71,the slide shown in the image in Figure X is the type Title Only,q_71,correct
+39-q_71,this is 'title only' slide layout.,q_71,correct
+50-q_71,The picture shown in Figure X is a picture of the layouts of like to add an subtitle picture and any text.,q_71,incorrect
+57-q_71,The slide shown in the image in Figure X is the Title Slide according to the page 902),q_71,incorrect
+60-q_71,This slide is of the type Title Slide.,q_71,incorrect
+10-q_62,Title Slide is the type of slide shown in Figure X),q_62,correct
+11-q_62,,q_62,incorrect
+37-q_62,Title Slide,q_62,correct
+41-q_62,This is the type 'Title Slide'.,q_62,correct
+48-q_62,,q_62,incorrect
+5-q_62,The slide shown in Figure X is the preset slide option titled as 'Title Slide' which contains two text boxes for a title and subtitle. This slide is typically preloaded onto a new created PowerPoint document.,q_62,correct
+13-q_56,This slide is of the type Title and Content.,q_56,correct
+14-q_56,This slide is type of title slide,q_56,incorrect
+30-q_56,Title and content.,q_56,correct
+35-q_56,The type of slide displayed in Figure X is called 'Title and Content'.,q_56,correct
+45-q_56,The slide in Figure X is title and content.,q_56,correct
+13-q_40,You have to click somewhere on the SmartArt graphic to bring the 'type your text here' box up. Then you can simply add extra bullets and the SmartArt will change.,q_40,correct
+21-q_40,,q_40,incorrect
+28-q_40,Click the add shape button and then change the default '[Text]' using the textbox on the left.,q_40,correct
+34-q_40,To add another shape in the graphic click the smartArt Graphic and then press the design tab.,q_40,correct
+3-q_40,,q_40,incorrect
+47-q_40,Select the SmartArt graphic and when its SmartArt Design tab comes up then you click on 'Add shape' which is under the create graphic section of the tab,q_40,correct
+50-q_40,To change the SmartArt graphic in Figure X to the one in Figure X you should click on the SmartArt graphic in Figure X to select it then navigate to the 'Design' tab in the Word toolbar and choose a different SmartArt style from the 'SmartArt Styles' gallery.,q_40,incorrect
+57-q_40,If you want to change the graphic you can do so using the Design tab and the options available in that ribbon.,q_40,incorrect
+9-q_40,Design tab,q_40,incorrect
+11-q_91,,q_91,incorrect
+17-q_91,To change the graphic to the one in Figure X you will select the SmartArt graphic then you will click on the shape with the text 'Three' and press delete on the keyboard.,q_91,correct
+20-q_91,You should click on one of the elements in Figure X and then theres a tab that pops up. Within that tab you should click the minus sign to remove an element from the graphic.,q_91,correct
+25-q_91,Select the shape with Three on the SmartArt Graphic and end the Delete on the keyboard,q_91,correct
+2-q_91,,q_91,incorrect
+30-q_91,Click on the smart art graphic click on the third box individually on its border and click cut or delete.,q_91,correct
+40-q_91,You can either click on the box called three from Figure X and simply click the delete button or backspace button then that box would get deleted and the graphic should look like Figure X) Another way you could do that is click on the box you want to be deleted -> click on SmartArt Design tab -> Click on text pane -> and delete that bullet from there.,q_91,correct
+43-q_91,Select the SmartArt graphic tabclick on the shape with the word Three then click on Smart art tools use Design tab and delete that shape of the graphic.,q_91,correct
+49-q_91,You would click on the SmartArt graphic go into the Design Tab and choose the option in the ribbon that determines the number of shapes in the graphic.,q_91,incorrect
+53-q_91,click on SmartArt graphic click on the side there is a little arrow and a little menu option will pop up then there should be a minus sign click that and one of the boxes will disapear.,q_91,correct
+56-q_91,If you want to change the color scheme layout number of shapes in the graphic or any other option you can do so using the Design tab and the options available in that ribbon.,q_91,incorrect
+10-q_23,Select all the bulleted lists items Click the Home Tab Click the 'Convert to SmartArt' button Select the 'Targeted List' SmartArt graphic.,q_23,correct
+12-q_23,,q_23,incorrect
+15-q_23,,q_23,incorrect
+18-q_23,You would select the entire list and then right click the list. Then on the context menu would select convert to obect or create object.,q_23,correct
+1-q_23,By inserting a SmartArt graphic and using one of the options to change it.,q_23,correct
+26-q_23,You would select all the bulleted list s items then lick the Home Tab then click the Convert to SmartArt button then select the appropriate SmartArt graphic to which you want the list to be converted.,q_23,correct
+28-q_23,On the 'Choose a smartArt graphic' tab select list on the menu on the left and choose the appropriate list object. then click ok.,q_23,correct
+29-q_23,,q_23,incorrect
+32-q_23,Click design and then convert.After creating a SmartArt graphic utilize 'Convert' to transform it into a static image.,q_23,correct
+37-q_23,Select all the bulleted list s items Click the Home Tab Click the Convert to SmartArt button Select the SmartArt graphic to which you want the list to be converted.,q_23,correct
+3-q_23,Select all the bulleted lists items then click Home Tab then click the 'Convert to SmartArt ' button then select the appropriate SmartArt graphic to which you want the list to be converted . The specific graphic in the 'My New List' Figure Xis called 'Targeted List',q_23,correct
+42-q_23,Select all the bulleted list's items : Click the Home Tab Click the -> Convert to SmartArt' button-> Select the appropriate SmartArt graphic to which you want the list to be converted. The specific graphic in the 'My New List' Figure Xis called 'Targeted List' but you did not have to mention that.,q_23,correct
+43-q_23,Select all the bulleted items on the list then click the Home tab - click the convert to SmartArt button - select the appropriate SmartArt graphic to which you want the list to be converted. This one shown is Targeted List.,q_23,correct
+46-q_23,For this to done the button lists item should be selected then click the home tab then click the 'convert to SmartArt button' then select a smart art graphic similar to Figure X),q_23,correct
+47-q_23,Choose all the items in the bulleted list -> Navigate to the Home Tab -> Click on the -> 'Convert to SmartArt' button -> Choose the suitable SmartArt graphic for converting the list.,q_23,correct
+4-q_23,,q_23,incorrect
+50-q_23,To convert the bulleted list into the object displayed in Figure X 'My New List' you should click on the 'Convert to SmartArt' button in PowerPoint.,q_23,correct
+52-q_23,Select and change the list art,q_23,correct
+53-q_23,select all the bullet points click home tab click convert to SmartArt and select the graphic.,q_23,correct
+58-q_23,select the bulleted list that had to be modified in the paragraphs group locate the bullet button a display of bullet styles will appear in the bullets and numbering button select picture of symbol tap depending on the design i want to use.,q_23,incorrect
+60-q_23,Select all the bulleted list s items Click the Home Tab Click the Convert to SmartArt button Select the appropriate SmartArt graphic to which you want the list to be converted. The specific graphic in the My New List Figure Xis called Targeted List but you did not have to mention that.,q_23,correct
+61-q_23,you should click on design and then click on where it says SmartArt Styles and click the desirable style for you List.,q_23,correct
+8-q_23,We select all the list items and click on the home tab and from there we convert to SmartArt button we select the graphic to which we want the list to be converted to. The graphic in my new list Figure X would now be called a Tageted List.,q_23,correct
+14-q_15,To remove the hyperlink right click over 'United Nations' click remove hyperlink to remove the hyperlink.,q_15,correct
+16-q_15,The clickability feature about which the question talks is called a hyperlink (the question didn t use the word hyperlink so that you won t be easily able to find the answer online! :) ) To remove it right-click over the text United Nations click Remove Hyperlink to remove the hyperlink!,q_15,correct
+17-q_15,To remove this feature known as hyperlink you will right-click over the text 'United Nations' and click 'Remove Hyperlink' to remove it.,q_15,correct
+29-q_15,,q_15,incorrect
+38-q_15,Right click 'United Nations' and click 'Remove Hyperlink'.,q_15,correct
+39-q_15,this is called a hyperlink. to remove it you right-click over 'united nations' . then click 'Remove hyperlink',q_15,correct
+40-q_15,You want to select the words 'United Nation' then right-click using the mouse and you will see an option says close hyperlink click it and that will remove the hyperclick so whenever you click on those words it won't open up to a webpage or a computer's browser.,q_15,correct
+43-q_15,The clickability feature is called a 'hyperlink'. To remove it right-click over the text 'United Nations' and click 'remove Hyperlink',q_15,correct
+46-q_15,To remove this 'hyperlink' right click over the 'United Nation' text then click remove hyperlink to remove the hyperlink.,q_15,correct
+48-q_15,,q_15,incorrect
+49-q_15,You can right click on 'United Nations' and click 'remove Hyperlink.',q_15,correct
+4-q_15,If you click on command+U at the same time it will remove the feature,q_15,incorrect
+50-q_15,1)Select the text 'United Nations'. 2)Right-click on the selected text. 3)In the context menu that appears choose 'Remove Hyperlink' or 'Clear Hyperlink'. 4The text 'United Nations' will now be converted into plain text and clicking on it will not open a web page anymore.,q_15,correct
+53-q_15,to remove the it you need to right click and options should pop up so you need to click on remove hyperlink,q_15,correct
+54-q_15,To remove a hyperlink with out removing the words 'United Nation' by right clicking the hyperlink and choosing 'Remove Hyperlink'.,q_15,correct
+56-q_15,The clickability feature about which the question talks is called a hyperlink (the question didn t use the word hyperlink so that you won t be easily able to find the answer online! :) ) To remove it right-click over the text United Nations click Remove Hyperlink to remove the hyperlink!,q_15,correct
+59-q_15,This is a Hyperlink. In order to remove it we need to: Right-click over the text 'United Nation' and click the option 'Remove Hyperlink'.,q_15,correct
+60-q_15,The clickability feature about which the question talks is called a hyperlink (the question didn t use the word hyperlink so that you won t be easily able to find the answer online! :) ) To remove it right-click over the text United Nations click Remove Hyperlink to remove the hyperlink!,q_15,correct
+61-q_15,To edit a hyperlink right click on the hyperlink and remove hyperlink.,q_15,correct
+12-q_30,,q_30,incorrect
+15-q_30,,q_30,incorrect
+16-q_30,Double-click at the top margin of the page. This action will activate the header area for editing and then insert a blank header: Once you're in the header area you can insert a blank header by simply typing your cursor to start typing. You can also use the tools in the 'Header & Footer' section of the Ribbon to format or add elements to the header if needed.,q_30,correct
+18-q_30,You will go to the insert tab and go to header or footnote option. Then click on header and it will create a header were you can add text to it.,q_30,correct
+19-q_30,Click the 'Insert' tab. In the top-right there should be a Header dropdown menu. Click the 'Header' dropdown menu and click the 'Blank' option.,q_30,correct
+20-q_30,Start Word and click on Insert tab at top of Word window. Click on header button in the insert tab. Choose a header style. For this header style would be Blank.,q_30,correct
+21-q_30,I need to go to 'Insert' and then select 'Header' and select 'Blank' then I can type in the information I need for this paper.,q_30,correct
+22-q_30,1) Access the Header section 2) Insert a Blank Header: In the 'Header & Footer' group click on the 'Header' option. From the dropdown menu select 'Blank.' 3) Type Your Header Information: Once the blank header is inserted you can type your header information. 4) Format the Header: You can adjust the formatting of the header such as font style size alignment etc. by selecting the text and using the formatting options in the 'Home' tab.,q_30,correct
+24-q_30,Open Microsoft Word navigate to the Insert Tab click on Header & Footer (Header button) select Blank customize the Header close Header and Footer (double-click outside the header area to return to the main document),q_30,correct
+26-q_30,You can do so by opening your Word document launching Microsoft Word and opening the document in which you want to create the MLA header. Then you may navigate to the 'Insert' tab at the top of the Word window you'll see various tabs. Click on the 'Insert' tab to access the Insert menu. In which you will then click on 'Header' within the Insert tab you'll see the 'Header' option in the Header & Footer section. Click on 'Header' to open a dropdown menu. Then you will select 'Blank' or 'Edit Header' in the dropdown menu you'll see different options for creating headers. You can either choose 'Blank' to insert a blank header area at the top of your page or you can choose 'Edit Header' if there's already a default header in place and you want to edit it.,q_30,correct
+27-q_30,Click on the 'Insert' tab in the menu at the top of the screen. click 'Header & Footer' group in the toolbar. Click on the 'Header' dropdown menu. Select 'Blank' from the options provided. This will open up the header section for my MLA document.,q_30,correct
+49-q_30,You would go to the INSERT tab and then click the HEADER button.,q_30,correct
+51-q_30,(Insert>Header & Footer). There is a dropdown menu available for both the Header and Footer choices. Choose Edit Header (or Edit Footer) to modify the header (or footer) or click one of the Built-in options to insert it. A dot will be used to symbolize the header and footer. You can't change the main text when you're in header/footer mode (the dotted lines show). When you choose the Close Header and Footer option from the ribbon's right side menu you can return to editing the main content. All of the document's headers and footers include the same information. Within the header/footer settings you can use the Page Number option to automatically number the pages in your document. Navigating to the Top of Page Bottom of Page Page Margins or Current Position options and choosing an alignment will let you choose where you want anything to go on the page. (Current Position describes the location of the cursor.) Every page has a header or footer that repeats the page number although the number varies to correspond to the current page number. By selecting the Format Page Numbers option you may also alter the page numbering scheme.,q_30,correct
+55-q_30,The header and footer controls are in the Header & Footer group of the Insert tab. Go to insert and then header and footer. The Header and Footer options each contain a dropdown menu. Click one of the Built-in options to insert it or select Edit Header (or Edit Footer) to edit the header (or footer).,q_30,correct
+57-q_30,To create a blank header in a word document you need to go to (Insert>Header since Header has a dropdown menu then we Click on one of the Built-in options to insert it or select Edit Header to edit the header.,q_30,correct
+58-q_30,Double lick on the top margin of the page select header and footer tab click header from the dropdown menu and select 'blank'.,q_30,correct
+5-q_30,Direct yourself to the 'Insert' tab and search for the 'Header & Footer' group. You can find the button that displays a dropdown to create the header. This comes with presets or an option to edit your own header.,q_30,correct
+10-q_6,One use of Ruler in Word is to change tab stops. A tab stop is a style setting that tells where the I-beam stops after a Tab character was entered thereby defining the size of the Tab character and telling where the position of the text that follows the character is.,q_6,correct
+11-q_6,,q_6,incorrect
+18-q_6,One use of the ruler is to adjust the margins to a specific length.,q_6,correct
+19-q_6,Rulers in Word can be used to assist with aligning elements and help with indentation.,q_6,correct
+1-q_6,To display the width of the page in inches. You can also click on the ruler to place the tab stop.,q_6,correct
+21-q_6,The Rulers in Words can be use for creating the first-indentation in the paper,q_6,correct
+25-q_6,The ruler are used to display the width of the page in inches. The ruler are used primaritly for adjusting and aligning text objects etc. One use would be setting margin.,q_6,correct
+29-q_6,,q_6,incorrect
+2-q_6,,q_6,incorrect
+31-q_6,The Rulers can help you creating first-line indentation in a research paper.,q_6,correct
+33-q_6,The Rulers can help you creating first-line indentation in a research paper.,q_6,correct
+35-q_6,The Rulers in Word are used as a measuring tool to adjust indents like adjusting the width of a tab.,q_6,correct
+36-q_6,The Rulers can help you creating first-line indentation in a research paper.,q_6,correct
+37-q_6,The Rulers can help you creating first-line indentation in a research paper.,q_6,correct
+38-q_6,The ruler is a tool to help adjust the margin for the word document. It can also be used for adjusting the margin of individual lines.,q_6,correct
+40-q_6,The Ruler helps you to align the document meaning you can align the words in a specific tap stop within the document.,q_6,correct
+46-q_6,Rulers can help create first line indentation in a paper.,q_6,correct
+50-q_6,The Rulers in Word are used for adjusting the layout and formatting of your document such as setting and adjusting margins.,q_6,correct
+52-q_6,The Rulers can be used to set Tab Stops. These tab stops can help with text alignment.,q_6,correct
+54-q_6,one use for ruler is for adding Tabs Stops,q_6,correct
+55-q_6,One use of the Rulers in Word is to set tab stops. Tab stops are used to align text at specific points horizontally across the page. The rulers display the width of the page in inches.,q_6,correct
+5-q_6,One use for the Ruler in Word is the change of margin space of the document. The grey areas of the Ruler represents the width of the margins. You can drag the arrows on the Ruler to change the documents margin size.,q_6,correct
+6-q_6,The rulers in Word are used for placing tab stops across the document at a desired distance. Tab stops using the ruler allows the width of the document to be displayed and for tab stops to be aligned by being dragged across the ruler.,q_6,correct
+8-q_6,The rulers used in word can be for alignment and indentation its used is to adjust indents and the width of margins for a document.,q_6,correct
+12-q_45,,q_45,incorrect
+16-q_45,It displays several pages rather than a single page at once (on one screen) inside the Word window.,q_45,correct
+32-q_45,Activating the 'Multiple Pages' view in Word results in the display of two or more pages concurrently based upon the chosen layout.,q_45,correct
+35-q_45,This allows you to see multiple pages on your window,q_45,correct
+38-q_45,If there are multiple pages if the button is clicked the pages will be display side by side beside on top of each other.,q_45,correct
+41-q_45,The button displayed in Figure X displays a feature when you can see multiple pages at one time. This zooms the document where you can see multiple pages in the window.,q_45,correct
+47-q_45,It displays multiple pages simultaneously within the Word window rather than just one page.,q_45,correct
+53-q_45,this Figure Xlets you see several pages at once inside the word window,q_45,correct
+55-q_45,The 'Multiple Pages' button in Microsoft Word changes the view to display more than one page of the document at a time on the screen making it easier to review the layout and flow of your document.,q_45,correct
+57-q_45,The button Multiple Pages allows you to view multiple pages of your document simultaneously making it easier to naviguate and edit longer documents.,q_45,correct
+10-q_20,The dinosaur picture was colored Gold or Yellow. Select the picture  Click the picture Tools: Format Tab Click the Color button Click on the Gold or Yellow color.,q_20,correct
+13-q_20,The procedure of changing a picture's color: Select the picture  -> Click the picture Tools: Format Tab -> Click the Color button -> Click on the Gold or Yellow color.,q_20,correct
+14-q_20,The change that have been made to Dino: before which resulted in Dino: after is that it was colored yellow. You could do so by selecting the picture click the picture tool format tabs click the color button and then click on the yellow color.,q_20,correct
+16-q_20,The dinosaur picture was colored Gold or Yellow which is why it is not green anymore. The question didn t ask for it but here is the procedure of changing a picture s color: Select the picture  Click the picture Tools: Format Tab Click the Color button Click on the Gold or Yellow color.,q_20,correct
+17-q_20,The color of the picture in Figure X was changed to the color yellow so that it became the picture in Figure X),q_20,correct
+19-q_20,The colors has been adjusted to such that the image of the Dino became more yellow.,q_20,correct
+30-q_20,The change that has been made is that the color of the dinosaur in Figure X(green) has been changed to gold/yellow in Figure X),q_20,correct
+35-q_20,This was done by changing the graphics style under the 'Graphics Format' tab,q_20,incorrect
+39-q_20,the color changed has changed from green to a yellow/gold color,q_20,correct
+3-q_20,The dinosaur picture on Figure X was colored Yellow or Gold which is why is not green anymore.,q_20,correct
+42-q_20,The change that can be seen to have been made to the picture in Figure X in comparison to Figure X is that the dinosaur picture was colored Gold or Yellow which is there for why it is no longer green. In order to make this change to the color: Select the picture  Click the picture Tools: Format Tab Click the Color button Click on the Gold or Yellow color.,q_20,correct
+43-q_20,First (in Figure X) the dinosaur picture was colored green and then the color was changed into yellow which is why it is not green anymore. To change the color you need to select picture then click the picture tools - Format Tab after that click the color button and choose Gold.,q_20,correct
+44-q_20,The dinosaur color was colored Green and now it is gold. Select the picture-Click the picture Tools- Click the Color button-click on the gold color,q_20,correct
+48-q_20,,q_20,incorrect
+50-q_20,The color of the 'Dino' changed.,q_20,correct
+56-q_20,The dinosaur picture was colored Gold or Yellow which is why it is not green anymore. The question didn t require it but here is the procedure of changing a picture s color: Select the picture  Click the picture Tools: Format Tab Click the Color button Click on the Gold or Yellow color.,q_20,correct
+57-q_20,In my opinion there was no big change from Figure X to Figure XI will say Figure X is the same picture that was added to the document with a different color. When I look at the text wrap signs show on the right side above there are the same so I think it just the color of the animal that was change.,q_20,correct
+59-q_20,The Dino picture changed color it was applied a tone Gold or Yellow. In order to do this we need to Select the picture > Click on the picture tools: Format Tab > Click the Color button > Click on the Gold or Yellow color.,q_20,correct
+5-q_20,While selecting the image and heading to the picture Format tab you can select the color option to change thee color of the image.,q_20,correct
+7-q_20,image color change,q_20,correct
+10-q_25,The first list is a regular first-level bulleted list. The second list is a multi-level bulleted list with 1st-level and 2nd-level items.,q_25,correct
+13-q_25,The first bullet is a regular bullet list. The second list is a multi-level bulleted list with 1st-level and 2nd-level items.,q_25,correct
+15-q_25,,q_25,incorrect
+16-q_25,The first list is a regular first-level bulleted list while the second list is a multi-level bulleted list with 1st-level and 2nd-level items.,q_25,correct
+18-q_25,The first list is general list. The second list has cagetories and seperates the different words.,q_25,correct
+1-q_25,The first list is a standard bullet point list containing fruits and vegetables. The second list shows which category the fruits and vegetables are in.,q_25,correct
+20-q_25,List 2 provides a clearer organizational structure by categorizing items into broader groups like Fruit and Veggies. List 1 does not have categories and each item is its own entity. List 2 allows for more systematic presentation and organization of information.,q_25,correct
+22-q_25,In the first list all items are at the same level and are presented sequentially. In the second list there is a clear hierarchical structure. The list is divided into two main categories: 'Fruit' and 'Veggies.' Each main category is denoted by a different bullet point.,q_25,correct
+24-q_25,The first list is a regular first-level bulleted list while the second list is a multi-level bulleted list with 1st-level and 2nd-level items.,q_25,correct
+26-q_25,The difference between the two lists is that the first list is a regular first-level bulleted list while the second list is a multi-level bulleted list with 1st-level and 2nd-level items.,q_25,correct
+27-q_25,The first list is a single-level list where each item (Apple Cherry Banana Strawberry) is at the same level or hierarchy. On the other hand the second list is a multi-level . It is organized into categories (Fruit Veggies) each with its own sub-list. The items (Apple Cherry) under the 'Fruit' category and (Banana Strawberry) under the 'Veggies' category are to the categories.,q_25,correct
+29-q_25,,q_25,incorrect
+30-q_25,The first list has a flat structure with all the items listed at the same level. Each item is independent and not grouped into any categories. The second list has a hierarchical structure. It categorizes items into 'Fruit' and 'Veggies' with each category serving as a higher level of organization. Under each category specific items are listed forming a hierarchy with main categories and their subcategories or examples.,q_25,correct
+31-q_25,The first list is a regular first-level bulleted list while the second list is a multi-level bulleted list with 1st-level and 2nd-level items.,q_25,correct
+32-q_25,The list levels are different. First list: Individual items. Second list: Organized into categories and subcategories Fruit and Veggies with items listed hierarchically under respective subcategories.,q_25,correct
+33-q_25,The first list is a regular first-level bulleted list. The second list is a multi-level bulleted list with first-level and second-level items,q_25,correct
+36-q_25,The first list is a regular first-level bulleted list while the second list is a multi-level bulleted list with 1st-level and 2nd-level items.,q_25,correct
+38-q_25,Fruit and veggies are categories while the named fruits and veggies are individual products. If you put the named fruits under fruit category it shows that the named fruits is part of fruit and same can be said for the veggies.,q_25,correct
+39-q_25,The first list is a regular first-level bulleted list while the second list is a multi-level bulleted list with 1st-level and 2nd-level items.,q_25,correct
+40-q_25,The first list that contains the content of fruit is in the first-level list that is usually displayed when first click upon while the second list has two different levels so it is a multi-leveled bullet list that displays 1st level and second level bullet points.,q_25,correct
+44-q_25,The first list list is a regular first-level bulleted list while the second list is a multi-level bulleted list with first level and second level items.,q_25,correct
+49-q_25,The first list features a list that is just one-level. The second list features a two-level list.,q_25,correct
+51-q_25,Pressing the Tab key once is the quickest way to raise the list level of a single line. Click the raise or decrease list level button after selecting the text you wish to edit to adjust many lines at a time.,q_25,correct
+53-q_25,the first list is first-level bulleted and the second list is multi-level bulleted with 1st-level and 2nd-level,q_25,correct
+55-q_25,The first list is non-hierarchical it displays all items at the same level with no indication of categories or grouping. In contrast the second list employs a hierarchical structure categorizing items under broader headings ('Fruit' and 'Veggies') which indicates a clear organizational relationship and groups items into distinct categories. This organization aids in understanding the list's structure and the relationship between its elements.,q_25,correct
+57-q_25,,q_25,incorrect
+5-q_25,The examples of lists given is the usage of 'List Levels'. In the instance where you want to create a hierarchy to categorize lists you can change list levels by using the top right corner option of the 'Paragraph' group in the Home tab.,q_25,correct
+60-q_25,The first list is a regular first-level bulleted list while the second list is a multi-level bulleted list with 1st-level and 2nd-level items.,q_25,correct
+61-q_25,it is a customized list which was changed by going Change list option on the home page and clicking a different style.,q_25,correct
+8-q_25,The first list is a regular bullet list which is only on its first level since it doesn t have sublists while the second is a multi level list which has a bullet list on first level and has a 2nd level list,q_25,correct
+9-q_25,While items in the second list are arranged into primary categories and subcategories using a layered structure things in the first list are presented in a flat layout with no hierarchy.,q_25,correct
+10-q_31,The purpose is to change the margins in case your worksheet will not fit within the standard margins for a printed page.,q_31,correct
+11-q_31,,q_31,incorrect
+13-q_31,The buttons set the margins of the Word document to a certain size.,q_31,correct
+23-q_31,,q_31,incorrect
+33-q_31,The displayed buttons set the margins of the Word document to a certain size.,q_31,correct
+3-q_31,The buttons displayed in Figure X is formatting options for adjusting the layout and the alignment of the text within the document. They control setting such as margins indention and line spacing.,q_31,correct
+40-q_31,Those buttons are called margins and the purpose for it is you could print it closer to the physical edge of the paper. The margins can help you display the edge of the paper within a specific margin so when you print the document out it would be easier for you.,q_31,correct
+4-q_31,The purpose of the button shown above 'Normal' you can change the margin to 1 size in all side.,q_31,correct
+14-q_16,The purpose of the dialog box is to insert/edit the details of a new bibliographic source into a Word document to later use it inside the bibliography or inside a citation.,q_16,correct
+15-q_16,,q_16,incorrect
+18-q_16,The purpose of the box is to make a citation.,q_16,correct
+1-q_16,To create in-text citations for your Word document.,q_16,correct
+21-q_16,The dialog box in Figure X is using for insert citation. I need to put in all the information in this dialog box and then click 'OK' then the citation will be on my select text.,q_16,correct
+24-q_16,The purpose of the dialog box is to insert/edit the details of a new bibliographic source into a Word document to later use it inside the bibliography or inside a citation.,q_16,correct
+28-q_16,It is for adding a bibliography. It contains name of the webpage author etc.,q_16,correct
+30-q_16,This box is to add MLA format citations into your word document. This dialog box lets you put in the year author name of web page and other criteria so it can give you a MLA format citation correctly used for articles when citing something using MLA format so you don't mess up the MLA citation format.,q_16,correct
+32-q_16,To insert in-text citations Word offers a dialog box to input the relevant details. Navigate to the 'References' tab select 'Insert Citation' then choose 'Add New Source' from the drop-down menu. Enter the required information into the designated fields within the dialog box. Once completed click OK and Word will automatically insert the citation at the cursor's location within the document.,q_16,correct
+33-q_16,The purpose of the shown dialog box is to add or edit the information of a new bibliographic source into a Word document in order to use it inside the bibliography or inside a citation.,q_16,correct
+34-q_16,The dialogue box above asks for additional user input in this case a website URL.,q_16,incorrect
+36-q_16,The purpose of the dialog box is to insert and/or edit the details of a new bibliographic source into a Word document to later use it inside the bibliography or inside a citation.,q_16,correct
+3-q_16,The purpose of the dialog box is to insert/edit the details of a new bibliographic sours in to Word document to later use it inside the bibliography or inside a citation.,q_16,correct
+40-q_16,The purpose of the following partially-shown dialog box is to insert the details of a bibliographic source into the Word document so it can be used later as a citation.,q_16,correct
+42-q_16,The main purpose of the partitally-shown dialog box in Figure X is to insert/edit the details of a new bibliographic source into a Word document which can/will be used to later use it inside the bibliography or inside a citation.,q_16,correct
+43-q_16,The purpose of the following dialog box is to insert or edit the details of a new bibliographic source into a Word document to use it inside the bibliography or inside a citation.,q_16,correct
+46-q_16,This can be used to create or edit a citation or bibliography source in word.,q_16,correct
+47-q_16,The purpose of this dialog box is to add in or edit the details of a new bibliographic source into a Word document for it to be later used inside the bibliography or inside a citation.,q_16,correct
+51-q_16,,q_16,incorrect
+52-q_16,The purpose of the box is to write a citation. You should gather the most amount of info you can.,q_16,correct
+53-q_16,the purpose for this Figure Xis to insert or edit the details of a bibliography source,q_16,correct
+57-q_16,The purpose of the following partially-shown dialog box in Figure X is to Insert Citations when it comes to follow a certain format and style conventions when writing papers such as research paper or manuscript etc.,q_16,correct
+58-q_16,The main purpose of the References tab in Word is to assist in creating citations creating bibliographies and incorporating sources into their documents effectively.,q_16,correct
+60-q_16,The purpose of the dialog box is to insert/edit the details of a new bibliographic source into a Word document to later use it inside the bibliography or inside a citation.,q_16,correct
+6-q_16,The purpose of the partially shown dialog box shown above is for citation. This is used to cite sources online or from other sources to site where information was found.,q_16,correct
+8-q_16,The purpose of the dialog box in Figure X is to insert or edit the details of a new source into the word doc we can use it inside either a citation or bibliography.,q_16,correct
+10-q_35,Select the chart click on the Chart Tools: Format tab Click on the Align button click on 'Align Center' Click on the Align button again Click on 'Align Middle'.,q_35,correct
+17-q_35,To change the chart in Figure X to the chart in Figure X you will select the chart and click on the Chart Tools: Format tab where you will click on the Align button and click on Align Center . Then click on the Align button again and click on Align Middle .,q_35,correct
+18-q_35,You would right click on the chart and then use the arrange group. Then go to option for align to slide and click on the center option.,q_35,correct
+19-q_35,Select the chart by clicking on it. On the top click the 'Format' tab. Click on the 'Align' button. The click on 'Align Center'. Finally click the 'Align' button again and click 'Align Middle'.,q_35,correct
+21-q_35,I need to select this chart and then go to 'Chart Tool' and click 'Align'and the select 'Center'. This chart will be appear in the center of this page.,q_35,correct
+22-q_35,Select the chart and handles around the edges show up. After selecting the chart the 'Format' tab will appear in the ribbon at the top of the PowerPoint window. Click on the 'Format' tab. Within the 'Format' tab locate the 'Arrange' group. This group contains options for adjusting the position and alignment of objects on the slide. Within the 'Arrange' group there are options for aligning objects vertically and horizontally. Click on either the 'Align Center' or 'Align Middle' button depending on whether you want to center the chart horizontally or vertically.,q_35,correct
+23-q_35,,q_35,incorrect
+24-q_35,Select the chart click on the Chart Tools: Format tab Click on the Align button click on Align Center Click on the Align button again click on Align Middle .,q_35,correct
+25-q_35,Click on the chart navigate to chart tools Click on align button Click on Align Center Click on align button again Click on Align Middle,q_35,correct
+28-q_35,In the format tab locate the arrange section and click align center.,q_35,correct
+30-q_35,Click on the chart and then click the chart tools format tab. Click the Align button and then after that click the Align Center option. Lastly click the Align Middle option and it's done.,q_35,correct
+32-q_35,Format Selection button opens a Format Chart Area in which you can move the chart.,q_35,incorrect
+33-q_35,Select the chart -> Click on the Chart Tools: Format tab -> Click on the Align button -> Click on 'Align Center' -> Click on the Align button again -> Click on 'Align Middle',q_35,correct
+34-q_35,Press picture Format then press Alignthen choose align button to align to the center both verticall and horizontally.,q_35,correct
+35-q_35,You can do so by clicking on the 'Align' button then clicking on 'Align Middle',q_35,correct
+38-q_35,Click on the chart first then under the 'Format' tab go to align under align click 'Align Center' and 'Align Middle'.,q_35,correct
+40-q_35,First select the chart then the Chart Tools: Format tab will show up click on it then click on the align button and click on align Center button. Then click on the Align button again and click on Align Middle.,q_35,correct
+43-q_35,Select the chart click on the Chart Tools - format tab- click on the Align button click on 'align center' click on the Align button again and click on 'Align Middle',q_35,correct
+44-q_35,Select the chart- click on the chart tools: Format tab- click on the Align button-click on the Align Center-click on the the Align button again and then just click on 'Algin Middle',q_35,correct
+46-q_35,This can be done by selecting the chart then clicking on 'Chart Tools: Format tab' from here click on 'Align center' then click on the 'Align button' then finally the Align middle'.,q_35,correct
+49-q_35,Click on the chart click on the Chart Tools: Format tab click on the ALIGN button click ALIGN CENTER then click the ALIGN button again and click ALIGN MIDDLE.,q_35,correct
+50-q_35,You can click on the shape styles.,q_35,incorrect
+58-q_35,Select the chart click on the chart tools: format tab click align button and click align center. Click align button again then click align MIDDLE.,q_35,correct
+5-q_35,Using the Format tab you head to the 'Arrange' group to change the chart from Figure X to 4. Clicking the graph then clicking the Align button in the 'Arrange' group will give you the desired result.,q_35,incorrect
+60-q_35,Select the chart click on the Chart Tools: Format tab Click on the Align button click on Align Center Click on the Align button again click on Align Middle .,q_35,correct
+61-q_35,Go to format>position and then click the middle center of the page option.,q_35,correct
+7-q_35,You can right-click on the chart and choose 'Format Chart Area' from the context menu. In the Format Chart Area pane you can adjust properties such as size and position including aligning it to the center of the page.,q_35,correct
+16-q_17,Select the table click on the Table Tools: Design tab Click on the Effects button Move the mouse over the Shadow option Click on the Perspective: Upper Left shadow option to add it.,q_17,correct
+19-q_17,`Select the table by click on its border. Click the 'Design' tab. Click the 'Effect' button. Hover over the shadow option and click the 'Perspective: Upper Left' option.,q_17,correct
+21-q_17,I need to go to the 'Table Design' and then find the Shadow effects and then select the effect on the Figure X),q_17,correct
+22-q_17,In table tools there s access to the table borders option. Choose border style called Diagonal Up Border.,q_17,correct
+23-q_17,,q_17,incorrect
+25-q_17,Select the table click on table tools: design click on effect button move the mouse over the shadow button click on prespective above: upper left,q_17,correct
+30-q_17,1) Select the table by clicking anywhere within the table. 2) Navigate to the 'Table Design' tab in the ribbon at the top of the Word window. 3) In the 'Table Styles' group click on the 'Borders' dropdown arrow. 4) Scroll down and select 'Borders and Shading' from the dropdown menu. This will open the 'Borders and Shading' dialog box. 5) In the 'Borders and Shading' dialog box go to the 'Borders' tab. 6) Select the box representing the outside border of the table. 7) Below the box you'll find the 'Settings' section. Click on the 'Shadow' button to add a shadow effect to the table. 8) Adjust the shadow options as needed such as color size and style. 9) Click 'OK' to apply the changes and close the dialog box.,q_17,correct
+33-q_17,Select the table -> Click the 'Table Design' -> Click the 'Text effects' -> Click the 'Shadow' to apply shadow effect,q_17,correct
+37-q_17,Select the table click on the Table Tools: Design tab Click on the Effects button Move the mouse over the Shadow option Click on the Perspective: Upper Left shadow option to add it.,q_17,correct
+40-q_17,First select the last row on the table by going to the side the table that displays this (->) and click it then under the Table Design tab you will see a button called Borders once you clicked on it there will be an options for you but in this case you click on Diagonal down border.,q_17,correct
+45-q_17,select the table and click on the table tools: Design Tab then click on the effect button. Move the mouse over the 'Shadows' option and click on the perspective: upper left shadow option.,q_17,correct
+48-q_17,,q_17,incorrect
+50-q_17,You need to click on the shadow.,q_17,correct
+52-q_17,One way is the Shape Format tab,q_17,incorrect
+53-q_17,you need to use the shadow button in the table tools: design tab and click which shadow option you want,q_17,correct
+54-q_17,you go to table design tab go to table style click on arrow of borders and click on diagonal down border,q_17,correct
+55-q_17,To change the table from 'Before' to 'After' Shadow applies a shadow to the letters of the text within the 'Table Styles' group found under the 'Table Tools: Design' tab. The Shadow option at the bottom of the menu allows you to customize the shadows by changing the color transparency blur angle and distance of the shadows,q_17,correct
+59-q_17,Select the table > Click on the Table Tools: Design Tab > Click on the 'Effects' button > hover the mouse over the 'Shadow' option > Click on the 'Perspective: Upper Left' shadow option to add it.,q_17,correct
+60-q_17,1)Click anywhere inside the table in Figure X to select it. 2)This action should reveal the Table Tools tab at the top of the Word window. 3)Click on the 'Table Tools' tab. 4)Within the Table Tools tab click on the 'Design' tab. 5)Look for the 'Draw Table' button in the Design tab. It typically looks like a pencil or pen icon. 6)Click on the 'Draw Table' button. 7)With the 'Draw Table' tool activated you can now draw a new table directly onto your document. 8)Draw a table similar to the one shown in Figure X with an inverted column.,q_17,incorrect
+6-q_17,You need to click Table design and click effects.,q_17,incorrect
+7-q_17,Format tab,q_17,incorrect
+8-q_17,We select the table click on the table tools Design tab and we can go. on to click the effects button and see the Shadow option and now we click on the Perspective: Upper left shadow option to add the effect on the table.,q_17,correct
+10-q_19,Right click on the mouse on the second row Click Insert Click Insert row below,q_19,correct
+12-q_19,,q_19,incorrect
+15-q_19,,q_19,incorrect
+18-q_19,You would click on the top row and the you would go to layout tab. In the layout tab you would click on the button that say insert below and it will create an empty row.,q_19,correct
+22-q_19,You should click anywhere inside the table to select it and it will reveal the table tools. Select the row and locate the delete group within the layout tab.,q_19,incorrect
+23-q_19,,q_19,incorrect
+24-q_19,Place Cursor: Move your cursor to the row immediately below where you want the new row to be inserted Right-Click: Right-click on that row Insert Rows: From the context menu that appears select 'Insert' and then choose 'Insert Rows Above,q_19,correct
+25-q_19,click on the row below the column1 or column2 and you can right click and hover over insert and select Insert Row Below,q_19,correct
+26-q_19,You could do so by placing your cursor where you want to insert the row click anywhere within the row below where you want the new row to appear. Go to the 'Layout' tab click on the 'Layout' tab in the Ribbon at the top of the Word window. Click on 'Insert Above' or 'Insert Below in the 'Rows & Columns' group on the 'Layout' tab you'll find options to insert rows. Choose either 'Insert Above' or 'Insert Below' depending on whether you want the new row to appear above or below the current row where your cursor is placed.,q_19,correct
+29-q_19,,q_19,incorrect
+30-q_19,Click on the table preferably the top row click insert click insert row below. Or you can go to the click on the bottom row first then insert and then click insert row above.,q_19,correct
+34-q_19,Right Click in the Insert table choose to insert more clumns and rows,q_19,correct
+37-q_19,Insert cells,q_19,correct
+38-q_19,Have your text cursor in the existed table then under 'Layout' tab click 'insert below' or 'insert above' depending on where your text cursor is.,q_19,correct
+42-q_19,Firstly to add the table you would go to insert then press tables and choose the specific amount of rows and or columns you want present in your table. However to make the change that can be seen to have taken place in Figure X you would right click in the table and insert the extra row that can be seen to have been added in Figure X),q_19,correct
+44-q_19,Right click anywhere outside Rows 2 - Selcting Insert- Selecting Insert row below.,q_19,correct
+45-q_19,One way is to delete the table and re insert a table. go to the 'insert and table' insert a 2 by 4 table. Another way is to select the row 'Info' and double click ( on Mac) find the insert option and click insert a row below.,q_19,correct
+46-q_19,You can select the table then select add a row down.,q_19,correct
+47-q_19,On row 2 you would right click on any of the cells and that would bring up the quick options menu where it will give you the option to insert above or below in this case you would click 'insert below',q_19,correct
+48-q_19,,q_19,incorrect
+53-q_19,to change the table from Figure X to 3 you need to go to the design tab and click insert and insert a row above or below,q_19,correct
+56-q_19,You can right-click in the table and choose to insert more columns and rows as shown below. You can select multiple cells or even entire rows or columns by clicking and dragging your mouse across the cells. Right-click on selected cells for more options to insert or delete cells.,q_19,correct
+58-q_19,Click anywhere inside the table where you want to add the new row select table tools which will be displayed go to layout tab and click rows and columns then place the cursor where you want to add the new row once the cursos is in the correct position click insert below.,q_19,correct
+60-q_19,1)Select the Table: Click anywhere inside the table to select it. You should see the table handles appear around the table borders. 2)Insert Column: Right-click anywhere inside the selected table. From the context menu that appears choose 'Insert' and then select 'Insert Columns to the Right'. This will add a new column to the right of the existing table. 3)Adjust the Table: If necessary adjust the width of the new column by clicking and dragging the column border to the desired width. 4)Fill in Content: Now that you have expanded the table to a 2 by 4 column you can fill in the additional column with your desired content.,q_19,incorrect
+6-q_19,You can changing the dimensions of your table by right clicking in the table and changing the number of rows from 2 to 3) This will update your table to have 2 columns and 3 rows.,q_19,correct
+7-q_19,You can also choose the Insert Table option below the grid instead. This will take you to a dialog box where you can choose how many rows or columns you want as well as the column width. If you ever want to change the dimensions of your table you can right-click in the table and choose to insert more columns and rows as shown below.,q_19,correct
+8-q_19,I should click on the row first any of the row in this case we use bottom we click on select in the insert tab and we select the row once we do that we go to insert and then we insert where we want it in this case since we click the bottom row we insert above and we are done.,q_19,correct
+12-q_66,,q_66,incorrect
+4-q_32,Clicking on the layout>breaks>column changes to the Figure X,q_32,incorrect
+51-q_32,The columns option.,q_32,incorrect
+52-q_32,Go to the 'Layout' tab then click 'Columns.' After click 'More columns' and set 4 columns.,q_32,correct
+58-q_32,Select the entire text or Control A select Layout Tab in the ribbon select Columns then select More Columns then edit the number of Columns by typing 4 then press OK.,q_32,correct
+29-q_59,,q_59,incorrect
+31-q_59,You could select the entire text in the document then click on the Layout tab then click the Column arrow then click the More Columns... option and then type the number 4 next to Number of Columns .,q_59,incorrect
+44-q_59,We should select the text - Click the Layout tab- Page Setup group- Column button- and then choose the number of colums.,q_59,incorrect
+49-q_59,You would first click the LAYOUT tab in the Ribbon BREAKS and then add a COLUMN BREAK.,q_59,incorrect
+54-q_59,to change the text layout in picture  you click on the 3 column option in the column button that is in the Page Setup group which is in the Layout tab,q_59,correct
+17-q_72,You will select the entire text in the document click on the Layout tab click the Column arrow click the More Columns... option and then type the number 4 next to Number of Columns .,q_72,correct
+22-q_72,,q_72,incorrect
+37-q_72,The layouts differ in the number of columns: the 'My Text Layout: Before' picture has two columns whereas the 'My Text Layout: After' image has four.To change the layout select the entire text in the document click on Layout tab click the Column arrow click the More Columns... option and then type the number 4 next to Number of Columns .,q_72,correct
+45-q_72,The text in Figure X is in two columns in order for us to change the columns we need to select the text we wanted and go to the ribbon and layout and find the column option. We can then change it to four columns. If there's no 4 column option we can customize it by clicking more columns and enter 4 in the space where it says 'number of columns'.,q_72,correct
+56-q_72,The difference between the layout is in the number of columns: while the My Text Layout: Before image has 2 columns the My Text Layout: After image has 4 columns. To change the layout to the one shown on the My Text Layout: After image you could select the entire text in the document click on the Layout tab click the Column arrow click the More Columns... option and then type the number 4 next to Number of Columns .,q_72,correct
+9-q_72,Layout>Breaks>Column Break,q_72,incorrect
+11-q_54,,q_54,incorrect
+1-q_54,By clicking on the design tab on the ribbon then clicking on watermark and choosing which watermark you prefer.,q_54,incorrect
+21-q_54,To get the watermark 'Draft' from pic 1 to pic 2 I need to click the 'insert' first and then find 'watermark' and select 'Horizontal' under the orientation.,q_54,correct
+23-q_54,,q_54,incorrect
+24-q_54,click Design tab click the Watermark arrow click the Custom Watermark... option next to the option Layout click on Horizontal instead of Diagonal click on Apply and close the dialog box.,q_54,correct
+26-q_54,You can do so by clicking the Design tab then click the Watermark arrow then click the 'Custom Watermark...' option then next to the option Layout click on 'Horizontal' instead of 'Diagonal' then click on Apply and close the dialog box.,q_54,correct
+28-q_54,select the layout as horizontal instead of diagonal.,q_54,correct
+30-q_54,In the layout section of the diaIog box instead of clicking the box for diagonal watermark you would click the box for a horizontal watermark to make the watermark horizontal.,q_54,correct
+35-q_54,This can be done so by going under the Design tab and then clicking on the watermark button and then clicking on the 'Draft 2' which would switch the watermark from diagnoly to horizontally,q_54,correct
+36-q_54,Open the Word document that contains the watermark. Go to the 'Design' tab in the ribbon and Click on 'Watermark' in the 'Page Background' group. Select 'Remove Watermark' to delete the existing watermark. Then add a new watermark click on 'Watermark' again and choose 'Custom Watermark.' Choose the Text Watermark option and write Draft as the text. Click on Horizontal option intead of diagonal and Apply to add it to the document.,q_54,correct
+39-q_54,click the design button on the ribbon. press the 'watermark' button then select the disclaimer draft in a horizontal way.,q_54,correct
+40-q_54,You can go to the design tab and click on the Watermark and there would be options to choose from instead of using the slanted Watermark you can click on the watermark that displays horizontally. Another way is you can go to the design tab -> click on Watermark -> click on Custom Watermark and there is a layout where you can either choose diagonal or horizontal so just simply click horizontal and okay then it would display like the image of FIgure 6),q_54,correct
+47-q_54,You click the Design tab and then click the Watermark arrow. After that click the 'Custom Watermark...' option. Next to the option Layout click on the 'Horizontal' option instead of 'Diagonal' and then click on Apply for the changes to be made.,q_54,correct
+52-q_54,You should click the 'Design' tab then click 'Watermark' on the right. After click 'Custom Watermark' and the 'Text watermark' should already be checked. Then change 'Layout' from 'Diagonal' to 'Horizontal.',q_54,correct
+55-q_54,To change the watermark from 'Before' to 'After' you should click on the 'Watermark' option which is found under the 'Design' tab in Microsoft Word. You can choose to edit the existing watermark or select a new one from the gallery of watermarks provided.,q_54,incorrect
+57-q_54,To change the watermark we should go to the design tab then click on watermark and choose the watermark that we would like to change it to like it was shown in Figure X),q_54,incorrect
+58-q_54,Deisgn lab locate watermark option select custom watermark by changing the orientation of the watermark to straight simply uncheck the box next to semi transparent this will disable the slanted effect and make the watermark text straight.,q_54,correct
+60-q_54,1)Save the Watermark Image: Use an image editing software to create or edit the watermark image. If you already have a watermark image open it in the software. 2)Flip the Image: In the image editing software find the option to flip or mirror the image horizontally or vertically. This option is usually found in the image editing menu under options like 'Transform' or 'Flip.' Select the appropriate flip/mirror option to create the mirrored version of your watermark. 3)Save the Flipped Image: After flipping the watermark image save the changes. Make sure to save the image in a format compatible with Word (such as JPEG PNG or BMP). 4)Insert the Flipped image into Word: Open your Word document. Go to the 'Design' tab then click on 'Watermark' in the 'Page Background' group. Select 'Custom Watermark.' In the 'Printed Watermark' dialog box choose 'picture watermark' and click on 'Select Picture.' Navigate to the location where you saved the flipped watermark image select it and click 'Insert.' 5)Adjust Watermark Settings: You may need to adjust the scale size or transparency of the watermark using the options provided in the 'Printed Watermark' dialog box. Once you're satisfied with the appearance click 'OK' to apply the flipped watermark to your Word document.,q_54,incorrect
+7-q_54,You can add a watermark to documents in Word by going to Design>Watermark. Choosing a watermark from the menu will apply it to every page in the document.,q_54,incorrect
+8-q_54,We go on design tab click on the Watermark arrow we follow up by clicking on custom watermark and right next to the option layout we click horizontal instead of diagonal and we apply and close up the dialog box.,q_54,correct
+9-q_54,When you go to design and choose the watermark tab it provides you with options of the formart you would want your watermark your word 'Draft' to be lined either horizontal or diagnal or straight.,q_54,incorrect
+12-q_58,,q_58,incorrect
+13-q_58,You could either click on Quick Access Toolbar -> Save button. You can also File then Save (don't click 'save as' because you already saved your work before).,q_58,correct
+18-q_58,You can use the command control + s. A secod way would be to go to the top of the ribbon and click on save as button.,q_58,correct
+20-q_58,You can click the save icon in the quick access toolbar or use the keyboard shortcut control+s.,q_58,correct
+22-q_58,In the Quick Access Toolbar at the top left corner of the Word window there should be a floppy disk icon representing the 'Save' command. Click on this icon to save the document. Alternatively if you have the ribbon displayed you can click on the 'File' tab then click 'Save' or 'Save As' in the menu that appears. Or Press 'Ctrl + S' on your keyboard. This keyboard shortcut triggers the 'Save' command and quickly saves all changes made to the document.,q_58,correct
+24-q_58,You could either (1) click on Quick Access Toolbar Save button or (2) click Ctrl + S (Cmnd + S on Mac) or (3) click File Save option (not Save As .) Either two of the options are good for the answer.,q_58,correct
+26-q_58,You can do so by clicking on the 'Save' icon in the Quick Access Toolbar this toolbar is usually located at the top left corner of the Word window next to the Word logo. It typically looks like a floppy disk icon. Also you could use the keyboard shortcut Ctrl + S (Command + S on Mac) pressing these keys on your keyboard will also save all changes made to the document.,q_58,correct
+28-q_58,Click file then click save. click the save icon on the top left in the quick access toolbar.,q_58,correct
+2-q_58,,q_58,incorrect
+30-q_58,1) In the quick access toolbar you can click on the save icon which will save all of your recently-made changes. 2) You can also click CTRL+S on your keybboard if you have a Windows laptop or Cmnd+S on Mac laptop if you want to save all of your work.,q_58,correct
+31-q_58,(1) Click on Quick Access Toolbar -> Save button (2) Click Ctrl + S (Cmnd + S on Mac),q_58,correct
+35-q_58,This can be done by clicking the save button on the top left corner which should automatically save the word document. Another way you can do so is by clicking the 'Ctrl' button on your keyboard and then clicking on the letter 'S'.,q_58,correct
+37-q_58,Ctrl+S (Cmnd + S on Mac) or Quick Access Toolbar Save button,q_58,correct
+39-q_58,you can use the shortcut Ctrl + S. you can also press save in the quick access,q_58,correct
+43-q_58,click on Quick Access Toolbar Save button or click Ctrl + S (Cmnd + S on Mac),q_58,correct
+46-q_58,One way is to click on the quick access bar and press the save button. The second way which is press Ctrl+S to save.,q_58,correct
+48-q_58,,q_58,incorrect
+49-q_58,You could click the SAVE ICON on the top left corner or you could click FILE and then SAVE.,q_58,correct
+4-q_58,Clicking on the save button on top left next to the home buttom in Macs will save. Using the shortcut Command+S in macs will save,q_58,correct
+55-q_58,The first way is to click the save icon located in the Quick Access Toolbar at the top left corner of the Word window. The second way is by pressing ctrl+S.,q_58,correct
+59-q_58,1) Click the 'Save' button on the Quick Access Toolbar. 2) Use the shortcut: Ctrl+S for Windows or Cmnd+ S for Mac.,q_58,correct
+5-q_58,In a currently open Word document you can save recently-made changes by heading to the Quick access toolbar on the top left corner that has a Save button. Another way to save quickly is by using the shortcut buttons ctrl+s(windows) or command+s(mac).,q_58,correct
+9-q_58,File>Save Ctrl+S,q_58,correct
+11-q_12,,q_12,incorrect
+12-q_12,,q_12,incorrect
+13-q_12,Click the Insert Tab -> Click the Header & Footer button -> Check the Date and time' box -> Click on the Fixed radio button -> Check the Slide Number' box ->Check the Footer' box -> Type: Presentation about 'Nothing' -> Click the Apply to All button to insert this footer.,q_12,correct
+14-q_12,Click the Insert tab -> click the 'Header & Footer' button -> check the 'Date and time' box -> click on the fixed radio button -> check the 'Slide Number' box -> check the 'Footer' box -> type: 'Presentation about Nothing' -> click the 'Apply to All' button to insert this footer.,q_12,correct
+15-q_12,,q_12,incorrect
+18-q_12,You click on the image and go to drawing format tab. Then select add text and a text box should be create to where you can edit it.,q_12,incorrect
+21-q_12,I need to go to 'Insert' and find the 'Header and 'Footer' and the check mark the 'Date and time' and then select 'fixed' and then select 'Footer' and then type in 'Presentation about Nothing'.,q_12,correct
+25-q_12,Click the Insert Tab Click the Header & Footer button Check the Date and time box Click on the Fixed radio button Check the Slide Number box Check the Footer box Type: Presentation about Nothing Click the Apply to All button to insert this footer,q_12,correct
+28-q_12,insert text. select header and footer. in the footer section select elements(date title of presentation page numbers). Select apply.,q_12,correct
+29-q_12,,q_12,incorrect
+2-q_12,,q_12,incorrect
+32-q_12,To add the text pointed by the red arrows in Figure X you need to click 'header and footer'(Insert>Header & Footer).,q_12,correct
+36-q_12,Click the Insert Tab > Click the Header & Footer button > Check the 'Date and time' box > Click on the Fixed radio button > Check the 'Slide Number' box > Check the 'Footer' box > Type: 'Presentation about Nothing' > Click the 'Apply to All' button to insert this footer.,q_12,correct
+37-q_12,Click the Insert Tab Click the Header & Footer button Check the Date and time box Click on the Fixed radio button Check the Slide Number box Check the Footer box Type: Presentation about Nothing Click the Apply to All button to insert this footer.,q_12,correct
+38-q_12,Click on the text box and type the texts then space the text apart by using 'space' or 'tab'. You can also create multiple text boxes by going to the 'insert' tab then click on 'text box' and move them to the desire area then in each text box type your desire text.,q_12,incorrect
+45-q_12,click the Insert Tab Click the Header & Footer button Check the Date and time box Click on the Fixed radio button Check the Slide Number box Check the Footer box Type: Presentation about Nothing Click the Apply to All button to insert this footer.,q_12,correct
+48-q_12,,q_12,incorrect
+4-q_12,Click Insert then click on text on top right then click on the text box then finally putting mouse bar to add text in macs,q_12,incorrect
+52-q_12,Go to the 'Insert' tab then go to the 'Text' group. After select 'Header & Footer.',q_12,correct
+53-q_12,insert tab click header and footer click date and time click the foxed radio check the slide number check the footer box type presentstion and click apply to all to insert to footer,q_12,correct
+54-q_12,You click on the text box button to add text pointed by the red arrow,q_12,incorrect
+55-q_12,Headers and Footers. The options to add headers and footers are in the same dropdown menu of the Text group. Once there you will see the menu below.This option is found under the 'Insert' tab. Once you click it you can select to add headers and footers in your document or presentation allowing you to insert the desired text.,q_12,correct
+56-q_12,Click the Insert Tab Click the Header & Footer button Check the Date and time box Click on the Fixed radio button Check the Slide Number box Check the Footer box Type: Presentation about Nothing Click the Apply to All button to insert this footer.,q_12,correct
+9-q_12,Header and Footer,q_12,correct
+1-q_64,,q_64,incorrect
+23-q_64,,q_64,incorrect
+2-q_64,,q_64,incorrect
+33-q_64,Select the paragraphs -> Click the Home Tab -> Click the Numbering button,q_64,correct
+41-q_64,The button you should click is the 'Numbered Options' and choose the (a) (b) (c).,q_64,correct
+52-q_64,You should copy the text then create a list (bullets numbers or letters). Use the lettered list.,q_64,correct
+54-q_64,You click on the arrow in the Numbering button and choose the one that has the English letter in it.,q_64,correct
+56-q_64,At the bottom the Define New Number Format... opens a dialog box that will let you further customize how your numbered lists appear.,q_64,correct
+6-q_64,The button you should click is numbering list then click the arrow to choose the abc format.,q_64,correct
+13-q_5,Select the paragraphs -> Click the Home Tab -> Click the Numbering button,q_5,incorrect
+17-q_5,You will select the paragraphs Click the Home Tab Click the Numbering button.,q_5,incorrect
+20-q_5,You have to select the three paragraphs and click on the bullets button in home tab.,q_5,correct
+27-q_5,To start select the text we want to change Home > then click the bulleted list button. ( There one more number we should not select that ) . We can type after selecting bulleted list.,q_5,correct
+28-q_5,Select the text and then click on the bulleted list button.,q_5,correct
+32-q_5,The buttons for bulleted are found in the Paragraph group. If you click and hold the bullet button more options will appear.In the list of options represented by bullets you have the ability to choose a different bullet style from the available library.,q_5,correct
+42-q_5,In order to change the 3 paragraphs you would Select the paragraphs ->Click the Home Tab ->Click the bullets button.,q_5,correct
+43-q_5,Select the text then click the bulleted list button.,q_5,correct
+46-q_5,This can be done by pressing the bulleted list button.,q_5,correct
+20-q_26,You can select the paragraph and click on increase indent button in home tab or tab button on the keyboard.,q_26,correct
+37-q_26,Center allign,q_26,correct
+40-q_26,You can click the Tab button on the keyboard to change the paragraph.,q_26,correct
+47-q_26,You can have the cursor on the line with the paragraph and then you can ctrl+R or you can go to the home tab in the ribbon and click on the align right tab in the paragraph section.,q_26,correct
+6-q_26,The button you should click to change the paragraph is the left-aligned text.,q_26,incorrect
+10-q_57,In order to change the paragraph you should click the Bullet button in Word .,q_57,correct
+41-q_57,You would have to go to the 'Home' Button and then click on the 'Bulleted' list button.,q_57,correct
+45-q_57,Select the sentence you want which in this case is 'Brooklyn College is an integral part of the artistic energy of New York.' Then you can go to the ribbon and select the bullets option.,q_57,correct
+50-q_57,To change the paragraph to remove the colon you should click on the 'Clear Formatting' button in Word.,q_57,incorrect
+59-q_57,To change it we need to: Select the paragraph > Click the Home Tab > Click the Numbering button.,q_57,incorrect
+5-q_57,Heading to the Ribbon on the Home tab you can look for the 'Paragraph' group. First select the text you want to change in this case it would be: 'Brooklyn College is an integral part of the artistic energy of New York.' then click the top left corner option for bulleted lists. This should make the change to the selected text.,q_57,correct
+7-q_57,To start select the text you want to change then click either the bulleted or numbered list button under the Home tab.,q_57,incorrect
+12-q_53,,q_53,incorrect
+34-q_53,,q_53,incorrect
+38-q_53,Click and highlight the text then go to the 'Home' tab and under the paragraph section click on 'Boarders' arrow. When the arrow is clicked on there will be options displayed go down to the option that says 'Outside Boarders' click on it.,q_53,correct
+46-q_53,The button that should be clicked to change this paragraph is border button which is located in the table design tab.,q_53,correct
+54-q_53,You click on the insert table button to change the paragraph,q_53,correct
+11-q_39,,q_39,incorrect
+23-q_39,,q_39,incorrect
+27-q_39,Go to the 'Home' tab in the toolbar. Click on the 'Align Right' button. if we don't want to Align Right we can change the rular for it it starts after leaving space. or Use Center Align.,q_39,correct
+33-q_39,Select the paragraph -> Click the Home Tab -> Click 'Center' (or Ctrl + E),q_39,correct
+4-q_39,The purpose of the button shown above 'Normal' you can change the margin to 1 size in all side.,q_39,correct
+57-q_39,The button that you need to click to change the paragraph is the Tab Button. You just have to press it once and it wil make it happen.,q_39,correct
+15-q_37,,q_37,incorrect
+58-q_37,Go to Home tab select the text click the Aa button and select UPPERCASE.,q_37,correct
+49-q_50,You would click the FONT SIZE button open the dropdown menu and increase the size. Alternatively you could manually enter the font size you desire.,q_50,correct
+53-q_50,you should use the font size button. it makes the text bigger,q_50,correct
+16-q_80,The text is bold so click Ctrl+B (Command+B for Macs) or select the text you want to change then select the Bold,q_80,correct
+33-q_80,Select the text -> Click the Home Tab -> Click the Bold Button (or Press Ctrl + B),q_80,correct
+32-q_70,The button in word in which you should click for this scenerio is 'font color'.,q_70,correct
+50-q_70,To maintain the formatting of the text 'Good morning!' you don't need to click any button in Word.,q_70,incorrect
+7-q_70,Select the text you want to change then click the font color dropdown menu which will give you a wide array of colors to choose from under the home tab.,q_70,correct
+12-q_88,,q_88,incorrect
+19-q_88,Click the 'Home' tab. In the top-left corner click the drop down menu and select the desired font.,q_88,correct
+24-q_88,Select the text 'Good morning!' in your Word document click Home tab click Font button click on the font name dropdown menu scroll through the list or start typing the name of the font that was used click on the font name to apply the change.,q_88,correct
+39-q_88,press 'Home' on the ribbon. then you press the font botton to change the font,q_88,correct
+40-q_88,You can use the Font button in Word to change the text in a different Font.,q_88,correct
+14-q_76,First you have to select the entire word 'Good morning!' -> click on the home tab -> click Italic.,q_76,correct
+2-q_76,,q_76,incorrect
+41-q_76,,q_76,incorrect
+31-q_97,Select the text and click the U button for Underline.,q_97,correct
+48-q_97,,q_97,incorrect
+11-q_13,,q_13,incorrect
+12-q_13,,q_13,incorrect
+15-q_13,,q_13,incorrect
+16-q_13,Click on Slide 2 in the Slides tab/area Drag it below the Slide 3 When you notice that Slide 3 move above Slide 2 release the mouse. Now the two slides exchanged their order!,q_13,correct
+1-q_13,You can click on slide 2 and drag it under slide 3),q_13,correct
+20-q_13,You should click and drag the 3rd slide from Figure X to the top to place it in the spot of the 2nd slide in Figure X),q_13,correct
+22-q_13,Look for the 'Outline View' button in the bottom left corner of the Slides tab/area. Click on the 'Outline View' button. This action should toggle the view of the Slides tab/area to the one shown in Figure X 'My Slides: Changed.',q_13,incorrect
+23-q_13,,q_13,incorrect
+24-q_13,Click on Slide 2 in the Slides tab/area Drag it below the Slide 3 When you notice that Slide 3 move above Slide 2 release the mouse. Now the two slides exchanged their order!,q_13,correct
+25-q_13,you can go to the slide side tab area and you can drag the slide 2 under the slide 3 to achieve the change,q_13,correct
+26-q_13,You would click on Slide 2 in the Slides tab/area then drag it below the Slide 3 then when you notice that Slide 3 moves above Slide 2 release the mouse.,q_13,correct
+27-q_13,In the left pane where we see thumbnails of the slides locate the slide we want to move. In this casewe want to move slide 3 after slide 1) Click and drag slide 3 to the position after slide 1) horizontal line indicating where the slide will be placed when we release the mouse button. Release the mouse button to drop the slide into its new position.,q_13,correct
+2-q_13,,q_13,incorrect
+31-q_13,Click on Slide 2 in the Slides tab/area then Drag it below the Slide 3 then When you notice that Slide 3 moves above Slide 2 release the mouse.,q_13,correct
+34-q_13,you can click on the little preview slide on the left slide and drag down the slide you want before . so in this case press slide 2 and drag down to slide 3 which will exchange both slides.,q_13,correct
+38-q_13,To change Figure X to Figure X you use the mouse cursor to drag slide 3 above slide 2),q_13,correct
+40-q_13,Click on Slide 2 in the Slides area then drag it below the Slide 3 and once Slide 3 moved above Slide 2 release the mouse and the two slides will be displayed in different order or you can do the other way where you drag Slide 3 using your mouse move it upward below Slide 1 and then release it.,q_13,correct
+41-q_13,You click on the 3rd slide and drag it on to the 2nd slide to change the Slides tab to the one in Figure X My Slides: Changed,q_13,correct
+49-q_13,You can click on thumbnail of the 3rd slide that has the dinosaurs hold left click and drag it upwards until the dinosaurs tab becomes the 2nd slide.,q_13,correct
+4-q_13,If you press enter it will change it to different slide to either write the text or to insert the image from the file.,q_13,incorrect
+52-q_13,Drag the second slide all the way down. Alternatively bring the third slide one up.,q_13,correct
+55-q_13,To move a slide you need to click on the slide you wish to move in the slide thumbnail view. In this scenario you would move slide 3 in front of slide 2) You would Drag that slide to a new position in the slide thumbnail view.,q_13,correct
+56-q_13,Click on Slide 2 in the Slides tab/area Drag it below the Slide 3 When you notice that Slide 3 move above Slide 2 release the mouse. Now the two slides exchanged their order!,q_13,correct
+57-q_13,To change the slide you can simply use the mouse by selecting the slide 3 and drag it over the other the slide you would want it to be placed at.,q_13,correct
+59-q_13,Click on the Slide 2 in the Slides area > Drag it below the Slide 3 > when the Slide 3 is on the place of Slide 2 release the mouse.,q_13,correct
+60-q_13,Click on Slide 2 in the Slides tab/area Drag it below the Slide 3 When you notice that Slide 3 move above Slide 2 release the mouse. Now the two slides exchanged their order!,q_13,correct
+7-q_13,1) To move a slide click on the slide you wish to move in the slide thumbnail view. 2) Drag that slide to a new position in the slide thumbnail view. Compare the screenshots below. Slides #2 and #3 have been switched.,q_13,correct
+8-q_13,The things we should click on is on slide 2 and we do that in the Slide area following that we can drag it below slide 3 and we would see that the exchange in the skides area we would see that the order of slides has been completed and we should see what is on Figure X 8),q_13,correct
+9-q_13,Drag the slide to the placement or the order you would want it.,q_13,correct
+12-q_27,,q_27,incorrect
+13-q_27,The button shown in Figure X increases the list level.,q_27,correct
+17-q_27,This button in Figure X will increase the list level of the lines of text you have selected.,q_27,correct
+19-q_27,It will make a new bullet with the selected text.,q_27,correct
+20-q_27,The bullet point that you're currently on gets indented and forms a hierarchy.,q_27,correct
+21-q_27,The select text list level will be decrease line when click this button,q_27,correct
+23-q_27,,q_27,incorrect
+28-q_27,The selected texts list level will be increased.,q_27,correct
+2-q_27,,q_27,incorrect
+32-q_27,When you click on the button in the image in Figure X it will increase or decrease list level.,q_27,correct
+33-q_27,The selected bulleted list will be indented further to the right. This action creates a sub-bullet level. Clicking this button will move the selected item(s) to a deeper level within the hierarchy of the bulleted list.,q_27,correct
+36-q_27,When you click on this Increase List Level button the item in the list changes its importance to 2nd level point 3rd level point etc,q_27,correct
+39-q_27,When you click on this increase list level button the item in the list changes its importance to a higher level,q_27,correct
+40-q_27,When you click on this increase list button it will change the level of the list item so it will go to the 2nd level point or the 3rd level point.,q_27,correct
+41-q_27,When you click on this button the item in the list changes its importance to 2nd level point 3rd level point etc.,q_27,correct
+42-q_27,If you are editing a bullet list and you click on this button the selected bullet point or the current line where the cursor is placed will be indented to the right effectively demoting it to a lower list level or creating a sub-item in a hierarchical list.,q_27,correct
+43-q_27,If you click on this button which is 'Increase List Level' the item in the list changes into to 2nd level point or 3rd level point or 4th and so on,q_27,correct
+45-q_27,,q_27,incorrect
+46-q_27,When this button is pressed the item in the list changes its importance to second level point third level point.,q_27,correct
+47-q_27,This button is the increase indent button. When clicked it shifts the selected text or bullet point to a lower level effectively creating a subpoint or indenting the text further to the right.,q_27,correct
+52-q_27,Increase indent level like tab.,q_27,correct
+56-q_27,it will increase multiple lines,q_27,correct
+58-q_27,When you click the increase indent button the item in the list changes its importance to 2nd level point 3rd level point etc.,q_27,correct
+60-q_27,When you click on this Increase List Level button the item in the list changes its importance to 2nd level point 3rd level point etc.,q_27,correct
+61-q_27,it pushes the List to the Right the middle of the list.,q_27,correct
+10-q_3,Ctrl Z or the undo button in Word.,q_3,correct
+11-q_3,,q_3,incorrect
+13-q_3,You can do ctrl + z to undo.,q_3,correct
+14-q_3,press Ctrl + z.,q_3,correct
+19-q_3,On the top-left of the Word program there should be an arrow pointing to the left. Click that left arrow and it will undo the last change to the document.,q_3,correct
+1-q_3,You can highlight the text and then change the font. Or you can undo this by typing Ctrl+Z for Windows or Cmnd+Z for Macs.,q_3,correct
+22-q_3,Locate the Undo Button: Look for the 'Undo' button in the Quick Access Toolbar at the top left corner of the Word window. Alternatively you can press 'Ctrl + Z' on your keyboard which is the keyboard shortcut for the Undo command.,q_3,correct
+25-q_3,you can can press command + z on mac or press ctrl + z for windows to undo the change,q_3,correct
+27-q_3,use the Ctrl+Z / Cmnd+Z shortcuts. Click the Undo button in the Quick Access Toolbar at the top-left of the Word window.,q_3,correct
+31-q_3,Click the Undo button in the Quick Access Toolbar at the top-left of the Word window OR use the Ctrl+Z / Cmnd+Z shortcuts.,q_3,correct
+36-q_3,Click the Undo button in the Quick Access Toolbar or press Ctrl + Z,q_3,correct
+38-q_3,Pressing CTRL + Z until the font changes back to the previous one. You can also highlight the entire document and click on the size of the font you desire to change the entire document's font to the same size.,q_3,correct
+42-q_3,In order to undo this change you can press command+z on a macbook and cntrl+z on a windows computer.,q_3,correct
+44-q_3,Undo Ctrl+Z Cmnd+Z Undoes the last action,q_3,correct
+45-q_3,One and most fast way for undoing this change is by clicking control z.,q_3,correct
+46-q_3,This can be done by pressing the undo button on the top right of word or using the command ctrl + z.,q_3,correct
+4-q_3,If you press command +Z at the same time in macs it will un-doing this change.,q_3,correct
+55-q_3,This keyboard shortcut Ctrl + Z undoes the last action you performed in the document which in this case would be the font change. This shortcut would undo the last action and you would have the previous font.,q_3,correct
+61-q_3,by clicking the two keys Ctrl + A and then clicking Ctrl + z,q_3,correct
+9-q_3,Ctrl+Z,q_3,correct
+14-q_1,select the shape -> click the drawing tool format -> click the position button -> click 'position in top center with square wrapping'.,q_1,correct
+17-q_1,To change the location of the oval in the document you will select the oval click on the Drawing Tools (Shape) format click the Position button and click the option 'Position in Top Center with Square Wrapping.,q_1,correct
+18-q_1,You would select the oval shape and click on the format tab. In the arrange group you select on align and align center.,q_1,incorrect
+21-q_1,I need to go to 'Wrap Text' and then select 'Top and Bottom' and this shape will be stay on the top of the page,q_1,incorrect
+23-q_1,,q_1,incorrect
+26-q_1,You would select the shape then click the Drawing Tools (Shape) Format then click the Position button and lastly click Position in Top Center with Square Wrapping. .,q_1,correct
+29-q_1,,q_1,incorrect
+30-q_1,Select the shape and then click the Drawing Tools (Shape) Format. After this click the Position button. Lastly click 'Position in Top Center with Square Wrapping.'Now you're done.,q_1,correct
+31-q_1,Select the shape then Click the Drawing Tools (Shape) Format then Click the Position button then Click Position in Top Center with Square Wrapping.,q_1,correct
+33-q_1,Select the shape -> Click the Drawing Tools (Shape) Format -> Click the Position button -> Click 'Position in Top Center with Square Wrapping',q_1,correct
+35-q_1,You can do so by going under the shape format tab and choosing the align button and choosing 'Align Center',q_1,incorrect
+39-q_1,select the shape click the drawing tools shape format click the position button then click position in top center with square wrapping,q_1,correct
+43-q_1,Select the shape then click the Drawing Tools/shape format then click the Position button after that click 'Position in Top Center with Square Wrapping.',q_1,correct
+44-q_1,Select the shape and click the drawing ToolsFormat and then Click the Position button - Click 'Position top Center with Square Wrapping.,q_1,correct
+4-q_1,The purpose of the button shown above 'Normal' you can change the margin to 1 size in all side.,q_1,incorrect
+51-q_1,Choose Position in Middle Center with Square Text Wrapping by clicking the Position icon.,q_1,correct
+56-q_1,Select the shape Click the Drawing Tools (Shape) Format Click the Position button Click Position in Top Center with Square Wrapping.,q_1,correct
+57-q_1,,q_1,incorrect
+61-q_1,Go to format> position for more options on where the oval should be placed on the page.,q_1,incorrect

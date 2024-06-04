@@ -1,0 +1,649 @@
+[Mon 06/03/2024, 16:00:29] /(^_^)\ C:\Users\Miriam Briskman\Desktop\Brooklyn College\Spring 2024\CSC 74040\Project\ASAG-main-old - Copy> python main.py
+wandb: (1) Create a W&B account
+wandb: (2) Use an existing W&B account
+wandb: (3) Don't visualize my results
+wandb: Enter your choice: 3
+wandb: You chose "Don't visualize my results"
+wandb: Tracking run with wandb version 0.15.11
+wandb: W&B syncing is set to `offline` in this directory.
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+cpu
+roberta-base
+{'train_id': '1024_SFRN_sci_5way_test0', 'model_name': 'roberta-base', 'num_labels': 2, 'max_length': 128, 'random_seed': 23, 'data_split': 0.2, 'lr': 1e-05, 'epochs': 25, 'weight_decay': 0.01, 'GRADIENT_ACCUMULATION_STEPS': 1, 'max_norm': 1, 'WARMUP_STEPS': 0.2, 'hidden_dropout_prob': 0.2, 'hidden_dim': 768, 'mlp_hidden': 128}
+q_21
+q_21
+q_21
+q_21
+q_21
+q_21
+q_21
+q_21
+q_21
+q_21
+q_21
+q_21
+q_21
+q_21
+q_21
+q_21
+q_21
+q_21
+q_21
+q_21
+q_21
+q_21
+q_21
+q_21
+q_51
+q_51
+q_51
+q_51
+q_51
+q_51
+q_51
+q_51
+q_51
+q_51
+q_51
+q_51
+q_51
+q_51
+q_51
+q_51
+q_51
+q_51
+q_51
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_59
+q_59
+q_59
+q_59
+q_59
+q_59
+q_59
+q_59
+q_59
+q_59
+q_59
+q_59
+q_59
+q_59
+q_59
+q_59
+q_59
+q_59
+q_72
+q_72
+q_72
+q_72
+q_72
+q_72
+q_72
+q_72
+q_72
+q_72
+q_72
+q_72
+q_72
+q_72
+q_72
+q_72
+q_72
+q_53
+q_53
+q_53
+q_53
+q_53
+q_53
+q_53
+q_53
+q_53
+q_53
+q_53
+q_53
+q_53
+q_53
+q_53
+q_53
+q_53
+q_53
+q_53
+q_53
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+{'correct': 0, 'incorrect': 1}
+{'incorrect': 115, 'correct': 133}
+q_21
+q_21
+q_21
+q_21
+q_21
+q_21
+q_51
+q_51
+q_51
+q_51
+q_51
+q_51
+q_51
+q_51
+q_51
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_48
+q_59
+q_59
+q_59
+q_59
+q_59
+q_72
+q_72
+q_72
+q_72
+q_72
+q_72
+q_53
+q_53
+q_53
+q_53
+q_53
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+q_1
+{'correct': 0, 'incorrect': 1}
+{'correct': 47, 'incorrect': 31}
+Train Iteration: 100%|█████████████████████████████████████| 199/199 [10:22<00:00,  3.13s/it]
+Epoch 1 - Loss 138.22513377666473
+Validation Iteration: 100%|██████████████████████████████████| 49/49 [00:27<00:00,  1.80it/s]
+Training Accuracy 0.47738693467336685 - Validation Accurracy 0.5306122448979592
+Training F1 0.4105718842560948 - Validation F1 0.3466666666666667
+Training loss 138.22513377666473 - Validation Loss 33.92838954925537
+Test Iteration: 100%|████████████████████████████████████████| 78/78 [00:42<00:00,  1.83it/s]
+Test acc is 0.3974358974358974
+Test qwk is 0.0
+Test f1 is 0.28440366972477066
+Train Iteration: 100%|█████████████████████████████████████| 199/199 [08:38<00:00,  2.61s/it]
+Epoch 2 - Loss 138.20578449964523
+Validation Iteration: 100%|██████████████████████████████████| 49/49 [00:39<00:00,  1.24it/s]
+Training Accuracy 0.4472361809045226 - Validation Accurracy 0.5306122448979592
+Training F1 0.3090277777777778 - Validation F1 0.3466666666666667
+Training loss 138.20578449964523 - Validation Loss 33.93233412504196
+Test Iteration: 100%|████████████████████████████████████████| 78/78 [01:03<00:00,  1.23it/s]
+Test acc is 0.3974358974358974
+Test qwk is 0.0
+Test f1 is 0.28440366972477066
+Train Iteration: 100%|█████████████████████████████████████| 199/199 [12:33<00:00,  3.78s/it]
+Epoch 3 - Loss 138.1529465317726
+Validation Iteration: 100%|██████████████████████████████████| 49/49 [00:39<00:00,  1.23it/s]
+Training Accuracy 0.4472361809045226 - Validation Accurracy 0.5306122448979592
+Training F1 0.3090277777777778 - Validation F1 0.3466666666666667
+Training loss 138.1529465317726 - Validation Loss 33.941695630550385
+Test Iteration: 100%|████████████████████████████████████████| 78/78 [01:03<00:00,  1.24it/s]
+Test acc is 0.3974358974358974
+Test qwk is 0.0
+Test f1 is 0.28440366972477066
+Train Iteration: 100%|█████████████████████████████████████| 199/199 [12:37<00:00,  3.81s/it]
+Epoch 4 - Loss 137.39469224214554
+Validation Iteration: 100%|██████████████████████████████████| 49/49 [00:40<00:00,  1.22it/s]
+Training Accuracy 0.5477386934673367 - Validation Accurracy 0.5306122448979592
+Training F1 0.54515440877692 - Validation F1 0.43678160919540227
+Training loss 137.39469224214554 - Validation Loss 33.82125920057297
+Test Iteration: 100%|████████████████████████████████████████| 78/78 [01:03<00:00,  1.22it/s]
+Test acc is 0.7307692307692307
+Test qwk is 0.37241379310344824
+Test f1 is 0.6628935995060712
+Train Iteration: 100%|█████████████████████████████████████| 199/199 [12:37<00:00,  3.81s/it]
+Epoch 5 - Loss 119.02047303318977
+Validation Iteration: 100%|██████████████████████████████████| 49/49 [00:40<00:00,  1.21it/s]
+Training Accuracy 0.7889447236180904 - Validation Accurracy 0.6326530612244898
+Training F1 0.7805147058823529 - Validation F1 0.613157894736842
+Training loss 119.02047303318977 - Validation Loss 31.584192782640457
+Test Iteration: 100%|████████████████████████████████████████| 78/78 [01:02<00:00,  1.24it/s]
+Test acc is 0.8076923076923077
+Test qwk is 0.5676274944567627
+Test f1 is 0.7768453175662788
+Train Iteration: 100%|█████████████████████████████████████| 199/199 [09:14<00:00,  2.79s/it]
+Epoch 6 - Loss 79.58403891324997
+Validation Iteration: 100%|██████████████████████████████████| 49/49 [00:27<00:00,  1.81it/s]
+Training Accuracy 0.9195979899497487 - Validation Accurracy 0.7346938775510204
+Training F1 0.9178534571723427 - Validation F1 0.7346938775510203
+Training loss 79.58403891324997 - Validation Loss 27.397343397140503
+Test Iteration: 100%|████████████████████████████████████████| 78/78 [00:42<00:00,  1.84it/s]
+Test acc is 0.8205128205128205
+Test qwk is 0.6372093023255814
+Test f1 is 0.8175133689839572
+Train Iteration: 100%|█████████████████████████████████████| 199/199 [08:58<00:00,  2.71s/it]
+Epoch 7 - Loss 73.65118452906609
+Validation Iteration: 100%|██████████████████████████████████| 49/49 [00:26<00:00,  1.84it/s]
+Training Accuracy 0.9447236180904522 - Validation Accurracy 0.7346938775510204
+Training F1 0.9434381540528668 - Validation F1 0.7329140461215933
+Training loss 73.65118452906609 - Validation Loss 27.530029594898224
+Test Iteration: 100%|████████████████████████████████████████| 78/78 [00:42<00:00,  1.83it/s]
+Test acc is 0.8717948717948718
+Test qwk is 0.7293546148507981
+Test f1 is 0.8645833333333333
+Train Iteration: 100%|█████████████████████████████████████| 199/199 [08:58<00:00,  2.70s/it]
+Epoch 8 - Loss 67.542625695467
+Validation Iteration: 100%|██████████████████████████████████| 49/49 [00:27<00:00,  1.81it/s]
+Training Accuracy 0.9748743718592965 - Validation Accurracy 0.7346938775510204
+Training F1 0.9744380218368658 - Validation F1 0.7329140461215933
+Training loss 67.542625695467 - Validation Loss 27.65025919675827
+Test Iteration: 100%|████████████████████████████████████████| 78/78 [00:42<00:00,  1.83it/s]
+Test acc is 0.8717948717948718
+Test qwk is 0.7293546148507981
+Test f1 is 0.8645833333333333
+Train Iteration: 100%|█████████████████████████████████████| 199/199 [09:00<00:00,  2.71s/it]
+Epoch 9 - Loss 67.4501882493496
+Validation Iteration: 100%|██████████████████████████████████| 49/49 [00:26<00:00,  1.83it/s]
+Training Accuracy 0.9748743718592965 - Validation Accurracy 0.7346938775510204
+Training F1 0.9744380218368658 - Validation F1 0.7329140461215933
+Training loss 67.4501882493496 - Validation Loss 27.706176102161407
+Test Iteration: 100%|████████████████████████████████████████| 78/78 [00:42<00:00,  1.83it/s]
+Test acc is 0.8717948717948718
+Test qwk is 0.7293546148507981
+Test f1 is 0.8645833333333333
+Train Iteration: 100%|█████████████████████████████████████| 199/199 [11:41<00:00,  3.53s/it]
+Epoch 10 - Loss 67.41089084744453
+Validation Iteration: 100%|██████████████████████████████████| 49/49 [00:39<00:00,  1.23it/s]
+Training Accuracy 0.9748743718592965 - Validation Accurracy 0.7346938775510204
+Training F1 0.9744380218368658 - Validation F1 0.7329140461215933
+Training loss 67.41089084744453 - Validation Loss 27.750771045684814
+Test Iteration: 100%|████████████████████████████████████████| 78/78 [00:59<00:00,  1.30it/s]
+Test acc is 0.8717948717948718
+Test qwk is 0.7293546148507981
+Test f1 is 0.8645833333333333
+Train Iteration: 100%|█████████████████████████████████████| 199/199 [12:35<00:00,  3.80s/it]
+Epoch 11 - Loss 67.38999697566032
+Validation Iteration: 100%|██████████████████████████████████| 49/49 [00:40<00:00,  1.21it/s]
+Training Accuracy 0.9748743718592965 - Validation Accurracy 0.7346938775510204
+Training F1 0.9744380218368658 - Validation F1 0.7329140461215933
+Training loss 67.38999697566032 - Validation Loss 27.76867961883545
+Test Iteration: 100%|████████████████████████████████████████| 78/78 [01:04<00:00,  1.22it/s]
+Test acc is 0.8717948717948718
+Test qwk is 0.7293546148507981
+Test f1 is 0.8645833333333333
+Train Iteration: 100%|█████████████████████████████████████| 199/199 [12:34<00:00,  3.79s/it]
+Epoch 12 - Loss 67.37737739086151
+Validation Iteration: 100%|██████████████████████████████████| 49/49 [00:32<00:00,  1.50it/s]
+Training Accuracy 0.9748743718592965 - Validation Accurracy 0.7346938775510204
+Training F1 0.9744380218368658 - Validation F1 0.7329140461215933
+Training loss 67.37737739086151 - Validation Loss 27.795093297958374
+Test Iteration: 100%|████████████████████████████████████████| 78/78 [00:52<00:00,  1.48it/s]
+Test acc is 0.8717948717948718
+Test qwk is 0.7293546148507981
+Test f1 is 0.8645833333333333
+Train Iteration: 100%|█████████████████████████████████████| 199/199 [10:50<00:00,  3.27s/it]
+Epoch 13 - Loss 67.36913850903511
+Validation Iteration: 100%|██████████████████████████████████| 49/49 [00:32<00:00,  1.52it/s]
+Training Accuracy 0.9748743718592965 - Validation Accurracy 0.7346938775510204
+Training F1 0.9744380218368658 - Validation F1 0.7329140461215933
+Training loss 67.36913850903511 - Validation Loss 27.806584119796753
+Test Iteration: 100%|████████████████████████████████████████| 78/78 [00:57<00:00,  1.37it/s]
+Test acc is 0.8717948717948718
+Test qwk is 0.7293546148507981
+Test f1 is 0.8645833333333333
+Train Iteration: 100%|█████████████████████████████████████| 199/199 [11:24<00:00,  3.44s/it]
+Epoch 14 - Loss 67.36343163251877
+Validation Iteration: 100%|██████████████████████████████████| 49/49 [00:33<00:00,  1.47it/s]
+Training Accuracy 0.9748743718592965 - Validation Accurracy 0.7346938775510204
+Training F1 0.9744380218368658 - Validation F1 0.7329140461215933
+Training loss 67.36343163251877 - Validation Loss 27.82484722137451
+Test Iteration: 100%|████████████████████████████████████████| 78/78 [00:53<00:00,  1.45it/s]
+Test acc is 0.8717948717948718
+Test qwk is 0.7293546148507981
+Test f1 is 0.8645833333333333
+Train Iteration: 100%|█████████████████████████████████████| 199/199 [10:44<00:00,  3.24s/it]
+Epoch 15 - Loss 67.3593370616436
+Validation Iteration: 100%|██████████████████████████████████| 49/49 [00:34<00:00,  1.43it/s]
+Training Accuracy 0.9748743718592965 - Validation Accurracy 0.7346938775510204
+Training F1 0.9744380218368658 - Validation F1 0.7329140461215933
+Training loss 67.3593370616436 - Validation Loss 27.842851489782333
+Test Iteration: 100%|████████████████████████████████████████| 78/78 [00:53<00:00,  1.45it/s]
+Test acc is 0.8717948717948718
+Test qwk is 0.7293546148507981
+Test f1 is 0.8645833333333333
+Train Iteration: 100%|█████████████████████████████████████| 199/199 [08:21<00:00,  2.52s/it]
+Epoch 16 - Loss 67.3562940955162
+Validation Iteration: 100%|██████████████████████████████████| 49/49 [00:22<00:00,  2.18it/s]
+Training Accuracy 0.9748743718592965 - Validation Accurracy 0.7346938775510204
+Training F1 0.9744380218368658 - Validation F1 0.7329140461215933
+Training loss 67.3562940955162 - Validation Loss 27.85596653819084
+Test Iteration: 100%|████████████████████████████████████████| 78/78 [00:36<00:00,  2.17it/s]
+Test acc is 0.8717948717948718
+Test qwk is 0.7293546148507981
+Test f1 is 0.8645833333333333
+Train Iteration: 100%|█████████████████████████████████████| 199/199 [07:29<00:00,  2.26s/it]
+Epoch 17 - Loss 67.35398373007774
+Validation Iteration: 100%|██████████████████████████████████| 49/49 [00:24<00:00,  1.97it/s]
+Training Accuracy 0.9748743718592965 - Validation Accurracy 0.7346938775510204
+Training F1 0.9744380218368658 - Validation F1 0.7329140461215933
+Training loss 67.35398373007774 - Validation Loss 27.862983614206314
+Test Iteration: 100%|████████████████████████████████████████| 78/78 [00:35<00:00,  2.18it/s]
+Test acc is 0.8717948717948718
+Test qwk is 0.7293546148507981
+Test f1 is 0.8645833333333333
+Train Iteration: 100%|█████████████████████████████████████| 199/199 [11:01<00:00,  3.32s/it]
+Epoch 18 - Loss 67.35219466686249
+Validation Iteration: 100%|██████████████████████████████████| 49/49 [00:34<00:00,  1.43it/s]
+Training Accuracy 0.9748743718592965 - Validation Accurracy 0.7346938775510204
+Training F1 0.9744380218368658 - Validation F1 0.7329140461215933
+Training loss 67.35219466686249 - Validation Loss 27.873352229595184
+Test Iteration: 100%|████████████████████████████████████████| 78/78 [00:57<00:00,  1.36it/s]
+Test acc is 0.8717948717948718
+Test qwk is 0.7293546148507981
+Test f1 is 0.8645833333333333
+Train Iteration: 100%|█████████████████████████████████████| 199/199 [11:14<00:00,  3.39s/it]
+Epoch 19 - Loss 67.35079053044319
+Validation Iteration: 100%|██████████████████████████████████| 49/49 [00:40<00:00,  1.22it/s]
+Training Accuracy 0.9748743718592965 - Validation Accurracy 0.7346938775510204
+Training F1 0.9744380218368658 - Validation F1 0.7329140461215933
+Training loss 67.35079053044319 - Validation Loss 27.88132992386818
+Test Iteration: 100%|████████████████████████████████████████| 78/78 [01:05<00:00,  1.19it/s]
+Test acc is 0.8846153846153846
+Test qwk is 0.7550593161200279
+Test f1 is 0.8773370609820024
+Train Iteration: 100%|█████████████████████████████████████| 199/199 [12:50<00:00,  3.87s/it]
+Epoch 20 - Loss 67.34968537092209
+Validation Iteration: 100%|██████████████████████████████████| 49/49 [00:27<00:00,  1.80it/s]
+Training Accuracy 0.9748743718592965 - Validation Accurracy 0.7346938775510204
+Training F1 0.9744380218368658 - Validation F1 0.7329140461215933
+Training loss 67.34968537092209 - Validation Loss 27.889144361019135
+Test Iteration: 100%|████████████████████████████████████████| 78/78 [00:38<00:00,  2.04it/s]
+Test acc is 0.8846153846153846
+Test qwk is 0.7550593161200279
+Test f1 is 0.8773370609820024
+Train Iteration: 100%|█████████████████████████████████████| 199/199 [07:18<00:00,  2.20s/it]
+Epoch 21 - Loss 67.3488193154335
+Validation Iteration: 100%|██████████████████████████████████| 49/49 [00:23<00:00,  2.06it/s]
+Training Accuracy 0.9748743718592965 - Validation Accurracy 0.7346938775510204
+Training F1 0.9744380218368658 - Validation F1 0.7329140461215933
+Training loss 67.3488193154335 - Validation Loss 27.89466455578804
+Test Iteration: 100%|████████████████████████████████████████| 78/78 [00:37<00:00,  2.10it/s]
+Test acc is 0.8846153846153846
+Test qwk is 0.7550593161200279
+Test f1 is 0.8773370609820024
+Train Iteration: 100%|█████████████████████████████████████| 199/199 [07:09<00:00,  2.16s/it]
+Epoch 22 - Loss 67.3481485247612
+Validation Iteration: 100%|██████████████████████████████████| 49/49 [00:25<00:00,  1.89it/s]
+Training Accuracy 0.9748743718592965 - Validation Accurracy 0.7346938775510204
+Training F1 0.9744380218368658 - Validation F1 0.7329140461215933
+Training loss 67.3481485247612 - Validation Loss 27.900307685136795
+Test Iteration: 100%|████████████████████████████████████████| 78/78 [00:41<00:00,  1.88it/s]
+Test acc is 0.8846153846153846
+Test qwk is 0.7550593161200279
+Test f1 is 0.8773370609820024
+Train Iteration: 100%|█████████████████████████████████████| 199/199 [07:21<00:00,  2.22s/it]
+Epoch 23 - Loss 67.34765288233757
+Validation Iteration: 100%|██████████████████████████████████| 49/49 [00:20<00:00,  2.40it/s]
+Training Accuracy 0.9748743718592965 - Validation Accurracy 0.7346938775510204
+Training F1 0.9744380218368658 - Validation F1 0.7329140461215933
+Training loss 67.34765288233757 - Validation Loss 27.90046575665474
+Test Iteration: 100%|████████████████████████████████████████| 78/78 [00:30<00:00,  2.55it/s]
+Test acc is 0.8846153846153846
+Test qwk is 0.7550593161200279
+Test f1 is 0.8773370609820024
+Train Iteration: 100%|█████████████████████████████████████| 199/199 [06:23<00:00,  1.93s/it]
+Epoch 24 - Loss 67.34731781482697
+Validation Iteration: 100%|██████████████████████████████████| 49/49 [00:21<00:00,  2.32it/s]
+Training Accuracy 0.9748743718592965 - Validation Accurracy 0.7346938775510204
+Training F1 0.9744380218368658 - Validation F1 0.7329140461215933
+Training loss 67.34731781482697 - Validation Loss 27.904872566461563
+Test Iteration: 100%|████████████████████████████████████████| 78/78 [00:34<00:00,  2.29it/s]
+Test acc is 0.8846153846153846
+Test qwk is 0.7550593161200279
+Test f1 is 0.8773370609820024
+Train Iteration: 100%|█████████████████████████████████████| 199/199 [07:12<00:00,  2.17s/it]
+Epoch 25 - Loss 67.3471392095089
+Validation Iteration: 100%|██████████████████████████████████| 49/49 [00:28<00:00,  1.75it/s]
+Training Accuracy 0.9748743718592965 - Validation Accurracy 0.7346938775510204
+Training F1 0.9744380218368658 - Validation F1 0.7329140461215933
+Training loss 67.3471392095089 - Validation Loss 27.906033128499985
+Test Iteration: 100%|████████████████████████████████████████| 78/78 [00:46<00:00,  1.69it/s]
+Test acc is 0.8846153846153846
+Test qwk is 0.7550593161200279
+Test f1 is 0.8773370609820024
+Real Test:
+
+start to test at checkpoint_debug_cpt_at_epoch5.model
+Test Iteration: 100%|████████████████████████████████████████| 78/78 [00:51<00:00,  1.51it/s]
+Test acc is 0.8205128205128205
+Test f1 is 0.8175133689839572
+Quadratic Weighted Kappa is 0.6372093023255814
+              precision    recall  f1-score   support
+
+           0       0.90      0.79      0.84        47
+           1       0.73      0.87      0.79        31
+
+    accuracy                           0.82        78
+   macro avg       0.82      0.83      0.82        78
+weighted avg       0.83      0.82      0.82        78
+
+[[37 10]
+ [ 4 27]]
+wandb: Waiting for W&B process to finish... (success).
+wandb:
+wandb: Run history:
+wandb:      Train Acc ▁▁▁▂▆▇███████████████████
+wandb:      Train QWK ▁▁▁▂▅▇███████████████████
+wandb:       Train f1 ▂▁▁▃▆▇███████████████████
+wandb:     Train loss ████▆▂▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+wandb:        Val Acc ▁▁▁▁▅████████████████████
+wandb:        Val QWK ▁▁▁▃▅████████████████████
+wandb:         Val f1 ▁▁▁▃▆████████████████████
+wandb:       Val loss ████▅▁▁▁▁▁▁▁▁▁▁▁▁▂▂▂▂▂▂▂▂
+wandb: final_test Acc ▁
+wandb: final_test QWK ▁
+wandb:  final_test f1 ▁
+wandb:       test Acc ▁▁▁▆▇▇███████████████████
+wandb:        test F1 ▁▁▁▅▇▇███████████████████
+wandb:       test qwk ▁▁▁▄▆▇███████████████████
+wandb:
+wandb: Run summary:
+wandb:      Train Acc 0.97487
+wandb:      Train QWK 0.94891
+wandb:       Train f1 0.97444
+wandb:     Train loss 67.34714
+wandb:        Val Acc 0.73469
+wandb:        Val QWK 0.47658
+wandb:         Val f1 0.73291
+wandb:       Val loss 27.90603
+wandb: final_test Acc 0.82051
+wandb: final_test QWK 0.63721
+wandb:  final_test f1 0.81751
+wandb:       test Acc 0.88462
+wandb:        test F1 0.87734
+wandb:       test qwk 0.75506
+wandb:
+wandb: You can sync this run to the cloud by running:
+wandb: wandb sync C:\Users\Miriam Briskman\Desktop\Brooklyn College\Spring 2024\CSC 74040\Project\ASAG-main-old - Copy\wandb\offline-run-20240603_160055-9mru7c5t
+wandb: Find logs at: .\wandb\offline-run-20240603_160055-9mru7c5t\logs
+
+[Mon 06/03/2024, 20:44:38] /(^_^)\ C:\Users\Miriam Briskman\Desktop\Brooklyn College\Spring 2024\CSC 74040\Project\ASAG-main-old - Copy>
